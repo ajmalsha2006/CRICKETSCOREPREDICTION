@@ -1,0 +1,11 @@
+{
+  "MAE": 16.667189699640627,
+  "RMSE": 22.890960095320953,
+  "R2": 0.4855767763879376,
+  "train_matches": 835,
+  "test_matches": 209,
+  "test_samples": 3933,
+  "high_score_threshold_runs": 180,
+  "high_score_accuracy": 0.7739638952453598,
+  "high_score_precision": 0.6895119418483905
+}

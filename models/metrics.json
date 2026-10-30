@@ -6,6 +6,11 @@
   "test_matches": 209,
   "test_samples": 3933,
   "high_score_threshold_runs": 180,
-  "high_score_accuracy": 0.7739638952453598,
-  "high_score_precision": 0.6895119418483905
+  "late_classifier_overs_elapsed_min": 16,
+  "late_classifier_accuracy": 0.9048207663782447,
+  "late_classifier_precision": 0.8450184501845018,
+  "late_classifier_recall": 0.8674242424242424,
+  "late_classifier_test_samples": 809,
+  "high_score_accuracy_all_overs": 0.7739638952453598,
+  "high_score_precision_all_overs": 0.6895119418483905
 }

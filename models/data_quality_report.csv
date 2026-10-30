@@ -1,0 +1,8 @@
+check_name,issue_count,status
+duplicate_match_ids,0,PASS
+orphan_deliveries,0,PASS
+null_critical_delivery_fields,0,PASS
+duplicate_delivery_keys,0,PASS
+run_component_mismatch,0,PASS
+negative_runs,0,PASS
+missing_match_teams_or_venue,0,PASS

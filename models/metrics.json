@@ -1,7 +1,7 @@
 {
-  "MAE": 16.32003866879795,
-  "RMSE": 22.050989598264895,
-  "R2": 0.4638262533562285,
+  "MAE": 16.40756566973744,
+  "RMSE": 22.166261193812247,
+  "R2": 0.4582059026275609,
   "train_matches": 876,
   "test_matches": 219,
   "test_samples": 4130,
@@ -11,6 +11,6 @@
   "late_classifier_recall": 0.782608695652174,
   "late_classifier_test_samples": 852,
   "high_score_threshold_runs": 180,
-  "high_score_accuracy": 0.7963680387409201,
-  "high_score_precision": 0.7340637450199203
+  "high_score_accuracy": 0.7958837772397095,
+  "high_score_precision": 0.7407407407407407
 }

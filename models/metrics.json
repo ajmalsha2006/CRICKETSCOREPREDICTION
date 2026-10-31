@@ -12,5 +12,8 @@
   "late_classifier_test_samples": 852,
   "high_score_threshold_runs": 180,
   "high_score_accuracy": 0.7958837772397095,
-  "high_score_precision": 0.7407407407407407
+  "high_score_precision": 0.7407407407407407,
+  "mlflow_run_id": "242e5ff989864e78a45643732e7ef041",
+  "mlflow_experiment_id": "1",
+  "mlflow_tracking_uri": "sqlite:///D:/CRICKETSCOREPREDICTION/mlflow.db"
 }

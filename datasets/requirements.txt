@@ -4,3 +4,4 @@ scikit-learn>=1.5
 joblib>=1.4
 duckdb>=1.4.0
 streamlit>=1.40
+mlflow>=3.1

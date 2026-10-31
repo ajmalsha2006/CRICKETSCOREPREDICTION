@@ -1,853 +1,853 @@
 match_id,batting_team,overs_elapsed,current_score,wickets_lost,final_score,actual_180_plus,predicted_180_plus
-335984,Rajasthan Royals,16,106.0,7.0,129.0,0,0
-335984,Rajasthan Royals,17,110.0,7.0,129.0,0,0
-335984,Rajasthan Royals,18,111.0,8.0,129.0,0,0
-335984,Rajasthan Royals,19,121.0,8.0,129.0,0,0
-335985,Mumbai Indians,16,118.0,4.0,165.0,0,0
-335985,Mumbai Indians,17,129.0,5.0,165.0,0,0
-335985,Mumbai Indians,18,149.0,5.0,165.0,0,0
-335985,Mumbai Indians,19,158.0,6.0,165.0,0,0
-335992,Royal Challengers Bangalore,16,108.0,7.0,135.0,0,0
-335992,Royal Challengers Bangalore,17,112.0,7.0,135.0,0,0
-335992,Royal Challengers Bangalore,18,121.0,7.0,135.0,0,0
-335992,Royal Challengers Bangalore,19,130.0,7.0,135.0,0,0
-335994,Mumbai Indians,16,114.0,5.0,154.0,0,0
-335994,Mumbai Indians,17,124.0,6.0,154.0,0,0
-335994,Mumbai Indians,18,135.0,6.0,154.0,0,0
-335994,Mumbai Indians,19,147.0,6.0,154.0,0,0
-336005,Chennai Super Kings,16,96.0,7.0,109.0,0,0
-336005,Chennai Super Kings,17,97.0,9.0,109.0,0,0
-336005,Chennai Super Kings,18,98.0,9.0,109.0,0,0
-336005,Chennai Super Kings,19,109.0,10.0,109.0,0,0
-336012,Royal Challengers Bangalore,16,104.0,7.0,122.0,0,0
-336012,Royal Challengers Bangalore,17,115.0,7.0,122.0,0,0
-336012,Royal Challengers Bangalore,18,122.0,9.0,122.0,0,0
-336013,Chennai Super Kings,16,149.0,3.0,181.0,1,1
-336013,Chennai Super Kings,17,154.0,3.0,181.0,1,1
-336013,Chennai Super Kings,18,159.0,4.0,181.0,1,1
-336013,Chennai Super Kings,19,176.0,4.0,181.0,1,1
-336021,Kolkata Knight Riders,16,67.0,10.0,67.0,0,0
-336026,Royal Challengers Bangalore,16,105.0,5.0,154.0,0,0
-336026,Royal Challengers Bangalore,17,119.0,5.0,154.0,0,0
-336026,Royal Challengers Bangalore,18,124.0,6.0,154.0,0,0
-336026,Royal Challengers Bangalore,19,130.0,7.0,154.0,0,0
-336032,Mumbai Indians,16,128.0,4.0,176.0,0,0
-336032,Mumbai Indians,17,137.0,4.0,176.0,0,0
-336032,Mumbai Indians,18,145.0,5.0,176.0,0,0
-336032,Mumbai Indians,19,162.0,5.0,176.0,0,0
-336034,Royal Challengers Bangalore,16,122.0,5.0,156.0,0,0
-336034,Royal Challengers Bangalore,17,126.0,5.0,156.0,0,0
-336034,Royal Challengers Bangalore,18,130.0,5.0,156.0,0,0
-336034,Royal Challengers Bangalore,19,143.0,6.0,156.0,0,0
-336037,Deccan Chargers,16,104.0,3.0,147.0,0,0
-336037,Deccan Chargers,17,112.0,3.0,147.0,0,0
-336037,Deccan Chargers,18,127.0,3.0,147.0,0,0
-336037,Deccan Chargers,19,140.0,6.0,147.0,0,0
-336039,Kings XI Punjab,16,73.0,7.0,112.0,0,0
-336039,Kings XI Punjab,17,79.0,7.0,112.0,0,0
-336039,Kings XI Punjab,18,84.0,7.0,112.0,0,0
-336039,Kings XI Punjab,19,98.0,8.0,112.0,0,0
-392181,Mumbai Indians,16,112.0,4.0,165.0,0,0
-392181,Mumbai Indians,17,126.0,4.0,165.0,0,0
-392181,Mumbai Indians,18,148.0,4.0,165.0,0,0
-392181,Mumbai Indians,19,157.0,6.0,165.0,0,0
-392182,Royal Challengers Bangalore,16,88.0,6.0,133.0,0,0
-392182,Royal Challengers Bangalore,17,98.0,6.0,133.0,0,0
-392182,Royal Challengers Bangalore,18,106.0,6.0,133.0,0,0
-392182,Royal Challengers Bangalore,19,117.0,6.0,133.0,0,0
-392186,Kings XI Punjab,16,123.0,5.0,158.0,0,0
-392186,Kings XI Punjab,17,130.0,5.0,158.0,0,0
-392186,Kings XI Punjab,18,134.0,6.0,158.0,0,0
-392186,Kings XI Punjab,19,142.0,6.0,158.0,0,0
-392190,Rajasthan Royals,16,111.0,4.0,150.0,0,0
-392190,Rajasthan Royals,17,119.0,5.0,150.0,0,0
-392190,Rajasthan Royals,18,125.0,6.0,150.0,0,0
-392190,Rajasthan Royals,19,132.0,6.0,150.0,0,0
-392191,Royal Challengers Bangalore,16,131.0,4.0,168.0,0,0
-392191,Royal Challengers Bangalore,17,136.0,5.0,168.0,0,0
-392191,Royal Challengers Bangalore,18,145.0,6.0,168.0,0,0
-392191,Royal Challengers Bangalore,19,162.0,7.0,168.0,0,0
-392195,Kings XI Punjab,16,107.0,4.0,139.0,0,0
-392195,Kings XI Punjab,17,111.0,4.0,139.0,0,0
-392195,Kings XI Punjab,18,123.0,4.0,139.0,0,0
-392195,Kings XI Punjab,19,130.0,6.0,139.0,0,0
-392201,Deccan Chargers,16,127.0,5.0,148.0,0,0
-392201,Deccan Chargers,17,134.0,5.0,148.0,0,0
-392201,Deccan Chargers,18,139.0,6.0,148.0,0,0
-392201,Deccan Chargers,19,140.0,7.0,148.0,0,0
-392203,Mumbai Indians,16,97.0,5.0,148.0,0,0
-392203,Mumbai Indians,17,106.0,5.0,148.0,0,0
-392203,Mumbai Indians,18,122.0,5.0,148.0,0,0
-392203,Mumbai Indians,19,132.0,6.0,148.0,0,0
-392208,Mumbai Indians,16,94.0,4.0,149.0,0,0
-392208,Mumbai Indians,17,101.0,4.0,149.0,0,0
-392208,Mumbai Indians,18,115.0,4.0,149.0,0,0
-392208,Mumbai Indians,19,133.0,4.0,149.0,0,0
-392211,Kolkata Knight Riders,16,111.0,2.0,154.0,0,0
-392211,Kolkata Knight Riders,17,128.0,2.0,154.0,0,0
-392211,Kolkata Knight Riders,18,139.0,2.0,154.0,0,0
-392211,Kolkata Knight Riders,19,147.0,2.0,154.0,0,0
-392213,Royal Challengers Bangalore,16,82.0,6.0,105.0,0,0
-392213,Royal Challengers Bangalore,17,92.0,7.0,105.0,0,0
-392213,Royal Challengers Bangalore,18,93.0,8.0,105.0,0,0
-392213,Royal Challengers Bangalore,19,102.0,8.0,105.0,0,0
-392221,Kolkata Knight Riders,16,113.0,3.0,173.0,0,0
-392221,Kolkata Knight Riders,17,133.0,3.0,173.0,0,0
-392221,Kolkata Knight Riders,18,137.0,4.0,173.0,0,0
-392221,Kolkata Knight Riders,19,153.0,4.0,173.0,0,0
-392225,Rajasthan Royals,16,126.0,3.0,145.0,0,0
-392225,Rajasthan Royals,17,130.0,3.0,145.0,0,0
-392225,Rajasthan Royals,18,138.0,3.0,145.0,0,0
-392225,Rajasthan Royals,19,142.0,4.0,145.0,0,0
-392226,Delhi Daredevils,16,104.0,5.0,120.0,0,0
-392226,Delhi Daredevils,17,104.0,6.0,120.0,0,0
-392226,Delhi Daredevils,18,111.0,7.0,120.0,0,0
-392226,Delhi Daredevils,19,114.0,8.0,120.0,0,0
-392232,Delhi Daredevils,16,100.0,5.0,134.0,0,0
-392232,Delhi Daredevils,17,110.0,6.0,134.0,0,0
-392232,Delhi Daredevils,18,115.0,7.0,134.0,0,0
-392232,Delhi Daredevils,19,122.0,7.0,134.0,0,0
-392234,Chennai Super Kings,16,100.0,6.0,116.0,0,0
-392234,Chennai Super Kings,17,102.0,6.0,116.0,0,0
-392234,Chennai Super Kings,18,109.0,8.0,116.0,0,0
-392234,Chennai Super Kings,19,110.0,8.0,116.0,0,0
-392238,Chennai Super Kings,16,114.0,3.0,146.0,0,0
-392238,Chennai Super Kings,17,124.0,3.0,146.0,0,0
-392238,Chennai Super Kings,18,130.0,4.0,146.0,0,0
-392238,Chennai Super Kings,19,140.0,4.0,146.0,0,0
-419127,Kolkata Knight Riders,16,130.0,4.0,183.0,1,0
-419127,Kolkata Knight Riders,17,141.0,4.0,183.0,1,0
-419127,Kolkata Knight Riders,18,153.0,4.0,183.0,1,0
-419127,Kolkata Knight Riders,19,162.0,4.0,183.0,1,0
-419130,Mumbai Indians,16,110.0,6.0,172.0,0,0
-419130,Mumbai Indians,17,120.0,7.0,172.0,0,0
-419130,Mumbai Indians,18,133.0,7.0,172.0,0,0
-419130,Mumbai Indians,19,152.0,7.0,172.0,0,0
-419132,Kings XI Punjab,16,124.0,6.0,163.0,0,0
-419132,Kings XI Punjab,17,133.0,7.0,163.0,0,0
-419132,Kings XI Punjab,18,139.0,8.0,163.0,0,0
-419132,Kings XI Punjab,19,150.0,9.0,163.0,0,0
-419147,Chennai Super Kings,16,114.0,4.0,138.0,0,0
-419147,Chennai Super Kings,17,121.0,5.0,138.0,0,0
-419147,Chennai Super Kings,18,125.0,6.0,138.0,0,0
-419147,Chennai Super Kings,19,132.0,6.0,138.0,0,0
-419149,Delhi Daredevils,16,88.0,8.0,111.0,0,0
-419149,Delhi Daredevils,17,96.0,8.0,111.0,0,0
-419149,Delhi Daredevils,18,103.0,8.0,111.0,0,0
-419149,Delhi Daredevils,19,107.0,9.0,111.0,0,0
-419159,Kings XI Punjab,16,139.0,3.0,192.0,1,0
-419159,Kings XI Punjab,17,146.0,3.0,192.0,1,0
-419159,Kings XI Punjab,18,157.0,3.0,192.0,1,0
-419159,Kings XI Punjab,19,176.0,3.0,192.0,1,1
-419165,Chennai Super Kings,16,127.0,3.0,168.0,0,0
-419165,Chennai Super Kings,17,139.0,3.0,168.0,0,0
-419165,Chennai Super Kings,18,146.0,4.0,168.0,0,0
-419165,Chennai Super Kings,19,157.0,4.0,168.0,0,0
-501201,Delhi Daredevils,16,88.0,8.0,95.0,0,0
-501201,Delhi Daredevils,17,90.0,9.0,95.0,0,0
-501201,Delhi Daredevils,18,95.0,10.0,95.0,0,0
-501207,Kochi Tuskers Kerala,16,113.0,5.0,148.0,0,0
-501207,Kochi Tuskers Kerala,17,117.0,7.0,148.0,0,0
-501207,Kochi Tuskers Kerala,18,120.0,7.0,148.0,0,0
-501207,Kochi Tuskers Kerala,19,129.0,7.0,148.0,0,0
-501215,Chennai Super Kings,16,117.0,4.0,131.0,0,0
-501215,Chennai Super Kings,17,131.0,4.0,131.0,0,0
-501222,Kolkata Knight Riders,16,128.0,2.0,171.0,0,0
-501222,Kolkata Knight Riders,17,138.0,2.0,171.0,0,0
-501222,Kolkata Knight Riders,18,154.0,3.0,171.0,0,1
-501222,Kolkata Knight Riders,19,164.0,3.0,171.0,0,1
-501223,Delhi Daredevils,16,180.0,3.0,231.0,1,1
-501223,Delhi Daredevils,17,184.0,4.0,231.0,1,1
-501223,Delhi Daredevils,18,197.0,4.0,231.0,1,1
-501223,Delhi Daredevils,19,209.0,4.0,231.0,1,1
-501232,Royal Challengers Bangalore,16,134.0,2.0,181.0,1,1
-501232,Royal Challengers Bangalore,17,141.0,3.0,181.0,1,1
-501232,Royal Challengers Bangalore,18,165.0,3.0,181.0,1,1
-501232,Royal Challengers Bangalore,19,175.0,4.0,181.0,1,1
-501233,Delhi Daredevils,16,112.0,4.0,157.0,0,0
-501233,Delhi Daredevils,17,123.0,4.0,157.0,0,0
-501233,Delhi Daredevils,18,138.0,5.0,157.0,0,0
-501233,Delhi Daredevils,19,147.0,6.0,157.0,0,0
-501234,Kings XI Punjab,16,93.0,5.0,119.0,0,0
-501234,Kings XI Punjab,17,100.0,5.0,119.0,0,0
-501234,Kings XI Punjab,18,103.0,5.0,119.0,0,0
-501234,Kings XI Punjab,19,110.0,5.0,119.0,0,0
-501242,Kochi Tuskers Kerala,16,102.0,4.0,156.0,0,0
-501242,Kochi Tuskers Kerala,17,114.0,4.0,156.0,0,0
-501242,Kochi Tuskers Kerala,18,125.0,4.0,156.0,0,0
-501242,Kochi Tuskers Kerala,19,134.0,5.0,156.0,0,0
-501244,Royal Challengers Bangalore,16,163.0,3.0,205.0,1,1
-501244,Royal Challengers Bangalore,17,176.0,3.0,205.0,1,1
-501244,Royal Challengers Bangalore,18,186.0,5.0,205.0,1,1
-501244,Royal Challengers Bangalore,19,197.0,5.0,205.0,1,1
-501261,Chennai Super Kings,16,114.0,4.0,152.0,0,0
-501261,Chennai Super Kings,17,120.0,5.0,152.0,0,0
-501261,Chennai Super Kings,18,127.0,5.0,152.0,0,0
-501261,Chennai Super Kings,19,141.0,5.0,152.0,0,0
-501267,Kolkata Knight Riders,16,124.0,4.0,175.0,0,0
-501267,Kolkata Knight Riders,17,137.0,4.0,175.0,0,0
-501267,Kolkata Knight Riders,18,156.0,5.0,175.0,0,0
-501267,Kolkata Knight Riders,19,166.0,5.0,175.0,0,0
-501268,Royal Challengers Bangalore,16,131.0,3.0,175.0,0,0
-501268,Royal Challengers Bangalore,17,135.0,4.0,175.0,0,0
-501268,Royal Challengers Bangalore,18,148.0,4.0,175.0,0,0
-501268,Royal Challengers Bangalore,19,167.0,4.0,175.0,0,1
-501271,Chennai Super Kings,16,167.0,1.0,205.0,1,1
-501271,Chennai Super Kings,17,172.0,1.0,205.0,1,1
-501271,Chennai Super Kings,18,188.0,1.0,205.0,1,1
-501271,Chennai Super Kings,19,198.0,3.0,205.0,1,1
-548314,Deccan Chargers,16,109.0,4.0,138.0,0,0
-548314,Deccan Chargers,17,119.0,4.0,138.0,0,0
-548314,Deccan Chargers,18,123.0,5.0,138.0,0,0
-548314,Deccan Chargers,19,130.0,7.0,138.0,0,0
-548318,Royal Challengers Bangalore,16,161.0,1.0,205.0,1,1
-548318,Royal Challengers Bangalore,17,173.0,2.0,205.0,1,1
-548318,Royal Challengers Bangalore,18,190.0,3.0,205.0,1,1
-548318,Royal Challengers Bangalore,19,198.0,4.0,205.0,1,1
-548328,Kings XI Punjab,16,96.0,4.0,124.0,0,0
-548328,Kings XI Punjab,17,103.0,5.0,124.0,0,0
-548328,Kings XI Punjab,18,107.0,6.0,124.0,0,0
-548328,Kings XI Punjab,19,114.0,6.0,124.0,0,0
-548331,Kings XI Punjab,16,112.0,5.0,163.0,0,0
-548331,Kings XI Punjab,17,125.0,5.0,163.0,0,0
-548331,Kings XI Punjab,18,139.0,5.0,163.0,0,0
-548331,Kings XI Punjab,19,149.0,5.0,163.0,0,0
-548333,Pune Warriors,16,136.0,2.0,192.0,1,1
-548333,Pune Warriors,17,148.0,2.0,192.0,1,1
-548333,Pune Warriors,18,171.0,2.0,192.0,1,1
-548333,Pune Warriors,19,180.0,2.0,192.0,1,1
-548339,Kings XI Punjab,16,116.0,3.0,168.0,0,0
-548339,Kings XI Punjab,17,124.0,3.0,168.0,0,0
-548339,Kings XI Punjab,18,140.0,3.0,168.0,0,0
-548339,Kings XI Punjab,19,152.0,3.0,168.0,0,0
-548346,Deccan Chargers,16,87.0,7.0,100.0,0,0
-548346,Deccan Chargers,17,90.0,8.0,100.0,0,0
-548346,Deccan Chargers,18,99.0,8.0,100.0,0,0
-548346,Deccan Chargers,19,100.0,10.0,100.0,0,0
-548349,Rajasthan Royals,16,115.0,5.0,141.0,0,0
-548349,Rajasthan Royals,17,123.0,5.0,141.0,0,0
-548349,Rajasthan Royals,18,128.0,5.0,141.0,0,0
-548349,Rajasthan Royals,19,134.0,6.0,141.0,0,0
-548350,Royal Challengers Bangalore,16,129.0,2.0,158.0,0,0
-548350,Royal Challengers Bangalore,17,135.0,3.0,158.0,0,0
-548350,Royal Challengers Bangalore,18,140.0,3.0,158.0,0,0
-548350,Royal Challengers Bangalore,19,154.0,3.0,158.0,0,0
-548356,Deccan Chargers,16,126.0,1.0,181.0,1,0
-548356,Deccan Chargers,17,142.0,1.0,181.0,1,1
-548356,Deccan Chargers,18,156.0,1.0,181.0,1,1
-548356,Deccan Chargers,19,167.0,1.0,181.0,1,1
-548366,Deccan Chargers,16,137.0,2.0,190.0,1,0
-548366,Deccan Chargers,17,145.0,3.0,190.0,1,0
-548366,Deccan Chargers,18,159.0,3.0,190.0,1,0
-548366,Deccan Chargers,19,179.0,3.0,190.0,1,1
-548367,Royal Challengers Bangalore,16,122.0,4.0,171.0,0,0
-548367,Royal Challengers Bangalore,17,128.0,4.0,171.0,0,0
-548367,Royal Challengers Bangalore,18,134.0,6.0,171.0,0,0
-548367,Royal Challengers Bangalore,19,147.0,6.0,171.0,0,0
-548369,Kings XI Punjab,16,106.0,6.0,136.0,0,0
-548369,Kings XI Punjab,17,117.0,6.0,136.0,0,0
-548369,Kings XI Punjab,18,126.0,7.0,136.0,0,0
-548369,Kings XI Punjab,19,131.0,8.0,136.0,0,0
-548378,Kolkata Knight Riders,16,106.0,4.0,162.0,0,0
-548378,Kolkata Knight Riders,17,115.0,4.0,162.0,0,0
-548378,Kolkata Knight Riders,18,126.0,4.0,162.0,0,0
-548378,Kolkata Knight Riders,19,141.0,4.0,162.0,0,0
-548379,Chennai Super Kings,16,128.0,5.0,187.0,1,0
-548379,Chennai Super Kings,17,141.0,5.0,187.0,1,0
-548379,Chennai Super Kings,18,150.0,5.0,187.0,1,0
-548379,Chennai Super Kings,19,168.0,5.0,187.0,1,0
-548381,Chennai Super Kings,16,146.0,1.0,190.0,1,1
-548381,Chennai Super Kings,17,160.0,1.0,190.0,1,1
-548381,Chennai Super Kings,18,171.0,2.0,190.0,1,1
-548381,Chennai Super Kings,19,182.0,2.0,190.0,1,1
-597999,Royal Challengers Bangalore,16,106.0,5.0,156.0,0,0
-597999,Royal Challengers Bangalore,17,115.0,5.0,156.0,0,0
-597999,Royal Challengers Bangalore,18,132.0,5.0,156.0,0,0
-597999,Royal Challengers Bangalore,19,140.0,5.0,156.0,0,0
-598007,Kings XI Punjab,16,123.0,5.0,138.0,0,0
-598007,Kings XI Punjab,17,131.0,6.0,138.0,0,0
-598007,Kings XI Punjab,18,133.0,8.0,138.0,0,0
-598007,Kings XI Punjab,19,137.0,9.0,138.0,0,0
-598009,Rajasthan Royals,16,106.0,5.0,145.0,0,0
-598009,Rajasthan Royals,17,112.0,5.0,145.0,0,0
-598009,Rajasthan Royals,18,126.0,5.0,145.0,0,0
-598009,Rajasthan Royals,19,130.0,5.0,145.0,0,0
-598010,Delhi Daredevils,16,76.0,5.0,114.0,0,0
-598010,Delhi Daredevils,17,93.0,5.0,114.0,0,0
-598010,Delhi Daredevils,18,97.0,7.0,114.0,0,0
-598010,Delhi Daredevils,19,101.0,8.0,114.0,0,0
-598020,Chennai Super Kings,16,123.0,2.0,169.0,0,0
-598020,Chennai Super Kings,17,131.0,2.0,169.0,0,0
-598020,Chennai Super Kings,18,150.0,2.0,169.0,0,0
-598020,Chennai Super Kings,19,160.0,2.0,169.0,0,0
-598022,Kolkata Knight Riders,16,91.0,8.0,119.0,0,0
-598022,Kolkata Knight Riders,17,100.0,8.0,119.0,0,0
-598022,Kolkata Knight Riders,18,107.0,9.0,119.0,0,0
-598022,Kolkata Knight Riders,19,115.0,9.0,119.0,0,0
-598030,Sunrisers Hyderabad,16,100.0,5.0,159.0,0,0
-598030,Sunrisers Hyderabad,17,115.0,5.0,159.0,0,0
-598030,Sunrisers Hyderabad,18,126.0,6.0,159.0,0,0
-598030,Sunrisers Hyderabad,19,143.0,6.0,159.0,0,0
-598031,Kings XI Punjab,16,120.0,4.0,149.0,0,0
-598031,Kings XI Punjab,17,126.0,4.0,149.0,0,0
-598031,Kings XI Punjab,18,129.0,5.0,149.0,0,0
-598031,Kings XI Punjab,19,131.0,6.0,149.0,0,0
-598037,Mumbai Indians,16,114.0,3.0,174.0,0,0
-598037,Mumbai Indians,17,128.0,3.0,174.0,0,0
-598037,Mumbai Indians,18,139.0,3.0,174.0,0,0
-598037,Mumbai Indians,19,147.0,3.0,174.0,0,0
-598038,Chennai Super Kings,16,114.0,3.0,164.0,0,0
-598038,Chennai Super Kings,17,121.0,3.0,164.0,0,0
-598038,Chennai Super Kings,18,138.0,3.0,164.0,0,0
-598038,Chennai Super Kings,19,150.0,3.0,164.0,0,0
-598043,Rajasthan Royals,16,108.0,4.0,132.0,0,0
-598043,Rajasthan Royals,17,115.0,4.0,132.0,0,0
-598043,Rajasthan Royals,18,119.0,5.0,132.0,0,0
-598043,Rajasthan Royals,19,123.0,5.0,132.0,0,0
-598047,Pune Warriors,16,133.0,3.0,178.0,0,1
-598047,Pune Warriors,17,142.0,3.0,178.0,0,1
-598047,Pune Warriors,18,151.0,3.0,178.0,0,1
-598047,Pune Warriors,19,165.0,3.0,178.0,0,1
-598056,Sunrisers Hyderabad,16,104.0,6.0,150.0,0,0
-598056,Sunrisers Hyderabad,17,114.0,6.0,150.0,0,0
-598056,Sunrisers Hyderabad,18,128.0,6.0,150.0,0,0
-598056,Sunrisers Hyderabad,19,142.0,7.0,150.0,0,0
-598064,Royal Challengers Bangalore,16,140.0,2.0,190.0,1,1
-598064,Royal Challengers Bangalore,17,145.0,3.0,190.0,1,1
-598064,Royal Challengers Bangalore,18,157.0,3.0,190.0,1,1
-598064,Royal Challengers Bangalore,19,169.0,3.0,190.0,1,1
-598066,Kings XI Punjab,16,143.0,2.0,183.0,1,1
-598066,Kings XI Punjab,17,156.0,3.0,183.0,1,1
-598066,Kings XI Punjab,18,164.0,4.0,183.0,1,0
-598066,Kings XI Punjab,19,174.0,5.0,183.0,1,0
-598070,Chennai Super Kings,16,137.0,1.0,192.0,1,0
-598070,Chennai Super Kings,17,151.0,1.0,192.0,1,1
-598070,Chennai Super Kings,18,161.0,1.0,192.0,1,1
-598070,Chennai Super Kings,19,173.0,1.0,192.0,1,1
-729291,Rajasthan Royals,16,146.0,4.0,191.0,1,1
-729291,Rajasthan Royals,17,159.0,5.0,191.0,1,1
-729291,Rajasthan Royals,18,174.0,5.0,191.0,1,1
-729291,Rajasthan Royals,19,183.0,5.0,191.0,1,1
-729293,Chennai Super Kings,16,119.0,3.0,177.0,0,0
-729293,Chennai Super Kings,17,135.0,3.0,177.0,0,0
-729293,Chennai Super Kings,18,150.0,4.0,177.0,0,0
-729293,Chennai Super Kings,19,162.0,6.0,177.0,0,0
-729301,Sunrisers Hyderabad,16,128.0,1.0,184.0,1,0
-729301,Sunrisers Hyderabad,17,139.0,1.0,184.0,1,0
-729301,Sunrisers Hyderabad,18,160.0,1.0,184.0,1,1
-729301,Sunrisers Hyderabad,19,174.0,1.0,184.0,1,1
-729309,Mumbai Indians,16,80.0,5.0,125.0,0,0
-729309,Mumbai Indians,17,94.0,5.0,125.0,0,0
-729309,Mumbai Indians,18,100.0,5.0,125.0,0,0
-729309,Mumbai Indians,19,113.0,6.0,125.0,0,0
-733989,Sunrisers Hyderabad,16,106.0,5.0,134.0,0,0
-733989,Sunrisers Hyderabad,17,111.0,7.0,134.0,0,0
-733989,Sunrisers Hyderabad,18,115.0,7.0,134.0,0,0
-733989,Sunrisers Hyderabad,19,122.0,7.0,134.0,0,0
-733991,Kings XI Punjab,16,166.0,4.0,198.0,1,1
-733991,Kings XI Punjab,17,173.0,5.0,198.0,1,1
-733991,Kings XI Punjab,18,184.0,6.0,198.0,1,1
-733991,Kings XI Punjab,19,188.0,6.0,198.0,1,1
-733995,Mumbai Indians,16,111.0,2.0,157.0,0,0
-733995,Mumbai Indians,17,118.0,2.0,157.0,0,0
-733995,Mumbai Indians,18,129.0,4.0,157.0,0,0
-733995,Mumbai Indians,19,139.0,5.0,157.0,0,0
-734005,Royal Challengers Bangalore,16,115.0,4.0,186.0,1,0
-734005,Royal Challengers Bangalore,17,136.0,4.0,186.0,1,0
-734005,Royal Challengers Bangalore,18,150.0,4.0,186.0,1,0
-734005,Royal Challengers Bangalore,19,159.0,4.0,186.0,1,0
-734007,Sunrisers Hyderabad,16,138.0,2.0,205.0,1,0
-734007,Sunrisers Hyderabad,17,149.0,2.0,205.0,1,0
-734007,Sunrisers Hyderabad,18,167.0,2.0,205.0,1,1
-734007,Sunrisers Hyderabad,19,193.0,4.0,205.0,1,1
-734015,Sunrisers Hyderabad,16,114.0,5.0,142.0,0,0
-734015,Sunrisers Hyderabad,17,126.0,5.0,142.0,0,0
-734015,Sunrisers Hyderabad,18,129.0,5.0,142.0,0,0
-734015,Sunrisers Hyderabad,19,136.0,6.0,142.0,0,0
-734037,Sunrisers Hyderabad,16,125.0,4.0,160.0,0,0
-734037,Sunrisers Hyderabad,17,127.0,5.0,160.0,0,0
-734037,Sunrisers Hyderabad,18,130.0,5.0,160.0,0,0
-734037,Sunrisers Hyderabad,19,147.0,5.0,160.0,0,0
-734041,Rajasthan Royals,16,141.0,3.0,189.0,1,0
-734041,Rajasthan Royals,17,143.0,3.0,189.0,1,0
-734041,Rajasthan Royals,18,161.0,3.0,189.0,1,0
-734041,Rajasthan Royals,19,173.0,3.0,189.0,1,0
-734049,Kings XI Punjab,16,140.0,2.0,199.0,1,1
-734049,Kings XI Punjab,17,159.0,2.0,199.0,1,1
-734049,Kings XI Punjab,18,170.0,4.0,199.0,1,1
-734049,Kings XI Punjab,19,187.0,4.0,199.0,1,1
-829705,Mumbai Indians,16,109.0,3.0,168.0,0,0
-829705,Mumbai Indians,17,122.0,3.0,168.0,0,0
-829705,Mumbai Indians,18,133.0,3.0,168.0,0,0
-829705,Mumbai Indians,19,148.0,3.0,168.0,0,0
-829713,Kolkata Knight Riders,16,131.0,2.0,177.0,0,0
-829713,Kolkata Knight Riders,17,137.0,4.0,177.0,0,0
-829713,Kolkata Knight Riders,18,149.0,4.0,177.0,0,0
-829713,Kolkata Knight Riders,19,163.0,4.0,177.0,0,0
-829739,Delhi Daredevils,16,105.0,5.0,146.0,0,0
-829739,Delhi Daredevils,17,117.0,5.0,146.0,0,0
-829739,Delhi Daredevils,18,123.0,6.0,146.0,0,0
-829739,Delhi Daredevils,19,143.0,6.0,146.0,0,0
-829743,Sunrisers Hyderabad,16,143.0,1.0,176.0,0,1
-829743,Sunrisers Hyderabad,17,149.0,2.0,176.0,0,1
-829743,Sunrisers Hyderabad,18,158.0,2.0,176.0,0,1
-829743,Sunrisers Hyderabad,19,164.0,3.0,176.0,0,0
-829751,Mumbai Indians,16,121.0,4.0,157.0,0,0
-829751,Mumbai Indians,17,126.0,5.0,157.0,0,0
-829751,Mumbai Indians,18,141.0,6.0,157.0,0,0
-829751,Mumbai Indians,19,149.0,6.0,157.0,0,0
-829761,Kolkata Knight Riders,16,119.0,4.0,171.0,0,0
-829761,Kolkata Knight Riders,17,135.0,5.0,171.0,0,0
-829761,Kolkata Knight Riders,18,143.0,5.0,171.0,0,0
-829761,Kolkata Knight Riders,19,153.0,6.0,171.0,0,0
-829777,Rajasthan Royals,16,130.0,1.0,189.0,1,0
-829777,Rajasthan Royals,17,149.0,1.0,189.0,1,1
-829777,Rajasthan Royals,18,159.0,1.0,189.0,1,1
-829777,Rajasthan Royals,19,174.0,2.0,189.0,1,1
-829789,Chennai Super Kings,16,108.0,4.0,158.0,0,0
-829789,Chennai Super Kings,17,122.0,4.0,158.0,0,0
-829789,Chennai Super Kings,18,133.0,4.0,158.0,0,0
-829789,Chennai Super Kings,19,147.0,4.0,158.0,0,0
-829819,Royal Challengers Bangalore,16,124.0,2.0,180.0,1,0
-829819,Royal Challengers Bangalore,17,137.0,2.0,180.0,1,1
-829819,Royal Challengers Bangalore,18,154.0,2.0,180.0,1,1
-829819,Royal Challengers Bangalore,19,169.0,3.0,180.0,1,1
-829823,Mumbai Indians,16,150.0,3.0,202.0,1,1
-829823,Mumbai Indians,17,173.0,3.0,202.0,1,1
-829823,Mumbai Indians,18,183.0,3.0,202.0,1,1
-829823,Mumbai Indians,19,191.0,4.0,202.0,1,1
-980903,Delhi Daredevils,16,92.0,9.0,98.0,0,0
-980903,Delhi Daredevils,17,93.0,9.0,98.0,0,0
-980903,Delhi Daredevils,18,98.0,10.0,98.0,0,0
-980905,Kings XI Punjab,16,130.0,4.0,161.0,0,0
-980905,Kings XI Punjab,17,136.0,4.0,161.0,0,0
-980905,Kings XI Punjab,18,146.0,4.0,161.0,0,0
-980905,Kings XI Punjab,19,155.0,4.0,161.0,0,0
-980913,Kings XI Punjab,16,85.0,7.0,111.0,0,0
-980913,Kings XI Punjab,17,90.0,7.0,111.0,0,0
-980913,Kings XI Punjab,18,96.0,8.0,111.0,0,0
-980913,Kings XI Punjab,19,99.0,9.0,111.0,0,0
-980917,Mumbai Indians,16,88.0,6.0,143.0,0,0
-980917,Mumbai Indians,17,99.0,7.0,143.0,0,0
-980917,Mumbai Indians,18,112.0,7.0,143.0,0,0
-980917,Mumbai Indians,19,129.0,7.0,143.0,0,0
-980923,Mumbai Indians,16,118.0,4.0,142.0,0,0
-980923,Mumbai Indians,17,123.0,4.0,142.0,0,0
-980923,Mumbai Indians,18,130.0,5.0,142.0,0,0
-980923,Mumbai Indians,19,136.0,6.0,142.0,0,0
-980933,Delhi Daredevils,16,118.0,3.0,164.0,0,0
-980933,Delhi Daredevils,17,130.0,4.0,164.0,0,0
-980933,Delhi Daredevils,18,141.0,4.0,164.0,0,0
-980933,Delhi Daredevils,19,148.0,4.0,164.0,0,0
-980937,Royal Challengers Bangalore,16,128.0,2.0,180.0,1,0
-980937,Royal Challengers Bangalore,17,144.0,2.0,180.0,1,1
-980937,Royal Challengers Bangalore,18,152.0,2.0,180.0,1,1
-980937,Royal Challengers Bangalore,19,163.0,2.0,180.0,1,1
-980939,Rising Pune Supergiants,16,108.0,3.0,160.0,0,0
-980939,Rising Pune Supergiants,17,119.0,3.0,160.0,0,0
-980939,Rising Pune Supergiants,18,133.0,4.0,160.0,0,0
-980939,Rising Pune Supergiants,19,143.0,5.0,160.0,0,0
-980951,Delhi Daredevils,16,131.0,3.0,186.0,1,0
-980951,Delhi Daredevils,17,145.0,5.0,186.0,1,0
-980951,Delhi Daredevils,18,163.0,5.0,186.0,1,1
-980951,Delhi Daredevils,19,176.0,6.0,186.0,1,1
-980953,Sunrisers Hyderabad,16,153.0,2.0,194.0,1,1
-980953,Sunrisers Hyderabad,17,161.0,3.0,194.0,1,1
-980953,Sunrisers Hyderabad,18,174.0,4.0,194.0,1,1
-980953,Sunrisers Hyderabad,19,188.0,4.0,194.0,1,1
-980957,Rising Pune Supergiants,16,124.0,3.0,159.0,0,0
-980957,Rising Pune Supergiants,17,135.0,3.0,159.0,0,0
-980957,Rising Pune Supergiants,18,142.0,4.0,159.0,0,0
-980957,Rising Pune Supergiants,19,148.0,4.0,159.0,0,0
-980969,Rising Pune Supergiants,16,146.0,3.0,191.0,1,1
-980969,Rising Pune Supergiants,17,162.0,3.0,191.0,1,1
-980969,Rising Pune Supergiants,18,171.0,4.0,191.0,1,1
-980969,Rising Pune Supergiants,19,175.0,6.0,191.0,1,1
-980989,Rising Pune Supergiants,16,96.0,5.0,103.0,0,0
-980989,Rising Pune Supergiants,17,102.0,6.0,103.0,0,0
-980989,Rising Pune Supergiants,18,103.0,6.0,103.0,0,0
-981001,Kolkata Knight Riders,16,93.0,5.0,124.0,0,0
-981001,Kolkata Knight Riders,17,103.0,6.0,124.0,0,0
-981001,Kolkata Knight Riders,18,116.0,6.0,124.0,0,0
-981001,Kolkata Knight Riders,19,120.0,7.0,124.0,0,0
-981003,Sunrisers Hyderabad,16,120.0,5.0,158.0,0,0
-981003,Sunrisers Hyderabad,17,124.0,5.0,158.0,0,0
-981003,Sunrisers Hyderabad,18,135.0,6.0,158.0,0,0
-981003,Sunrisers Hyderabad,19,149.0,6.0,158.0,0,0
-981011,Delhi Daredevils,16,107.0,6.0,138.0,0,0
-981011,Delhi Daredevils,17,115.0,7.0,138.0,0,0
-981011,Delhi Daredevils,18,125.0,7.0,138.0,0,0
-981011,Delhi Daredevils,19,134.0,7.0,138.0,0,0
-1082595,Royal Challengers Bangalore,16,134.0,4.0,157.0,0,1
-1082595,Royal Challengers Bangalore,17,142.0,6.0,157.0,0,0
-1082595,Royal Challengers Bangalore,18,144.0,6.0,157.0,0,0
-1082595,Royal Challengers Bangalore,19,150.0,6.0,157.0,0,0
-1082603,Rising Pune Supergiant,16,135.0,5.0,171.0,0,0
-1082603,Rising Pune Supergiant,17,149.0,5.0,171.0,0,1
-1082603,Rising Pune Supergiant,18,155.0,5.0,171.0,0,0
-1082603,Rising Pune Supergiant,19,167.0,5.0,171.0,0,0
-1082610,Royal Challengers Bangalore,16,160.0,2.0,213.0,1,1
-1082610,Royal Challengers Bangalore,17,166.0,2.0,213.0,1,1
-1082610,Royal Challengers Bangalore,18,178.0,2.0,213.0,1,1
-1082610,Royal Challengers Bangalore,19,196.0,2.0,213.0,1,1
-1082611,Sunrisers Hyderabad,16,148.0,1.0,191.0,1,1
-1082611,Sunrisers Hyderabad,17,158.0,2.0,191.0,1,1
-1082611,Sunrisers Hyderabad,18,170.0,2.0,191.0,1,1
-1082611,Sunrisers Hyderabad,19,174.0,4.0,191.0,1,1
-1082613,Kolkata Knight Riders,16,149.0,2.0,187.0,1,1
-1082613,Kolkata Knight Riders,17,154.0,2.0,187.0,1,1
-1082613,Kolkata Knight Riders,18,168.0,2.0,187.0,1,1
-1082613,Kolkata Knight Riders,19,180.0,3.0,187.0,1,1
-1082615,Sunrisers Hyderabad,16,122.0,2.0,176.0,0,0
-1082615,Sunrisers Hyderabad,17,134.0,3.0,176.0,0,0
-1082615,Sunrisers Hyderabad,18,146.0,3.0,176.0,0,0
-1082615,Sunrisers Hyderabad,19,161.0,3.0,176.0,0,0
-1082616,Kings XI Punjab,16,143.0,4.0,188.0,1,1
-1082616,Kings XI Punjab,17,152.0,4.0,188.0,1,1
-1082616,Kings XI Punjab,18,158.0,5.0,188.0,1,1
-1082616,Kings XI Punjab,19,176.0,6.0,188.0,1,1
-1082620,Rising Pune Supergiant,16,140.0,2.0,182.0,1,1
-1082620,Rising Pune Supergiant,17,147.0,2.0,182.0,1,1
-1082620,Rising Pune Supergiant,18,152.0,4.0,182.0,1,0
-1082620,Rising Pune Supergiant,19,170.0,4.0,182.0,1,1
-1082631,Kolkata Knight Riders,16,119.0,5.0,155.0,0,0
-1082631,Kolkata Knight Riders,17,120.0,6.0,155.0,0,0
-1082631,Kolkata Knight Riders,18,130.0,7.0,155.0,0,0
-1082631,Kolkata Knight Riders,19,151.0,7.0,155.0,0,0
-1082632,Gujarat Lions,16,171.0,4.0,208.0,1,1
-1082632,Gujarat Lions,17,178.0,4.0,208.0,1,1
-1082632,Gujarat Lions,18,184.0,5.0,208.0,1,1
-1082632,Gujarat Lions,19,191.0,6.0,208.0,1,1
-1082644,Mumbai Indians,16,130.0,3.0,173.0,0,0
-1082644,Mumbai Indians,17,139.0,3.0,173.0,0,0
-1082644,Mumbai Indians,18,157.0,3.0,173.0,0,0
-1082644,Mumbai Indians,19,168.0,4.0,173.0,0,0
-1082645,Kings XI Punjab,16,73.0,10.0,73.0,0,0
-1082649,Kolkata Knight Riders,16,92.0,6.0,107.0,0,0
-1082649,Kolkata Knight Riders,17,101.0,8.0,107.0,0,0
-1082649,Kolkata Knight Riders,18,106.0,9.0,107.0,0,0
-1082649,Kolkata Knight Riders,19,107.0,10.0,107.0,0,0
-1136575,Rajasthan Royals,16,122.0,4.0,160.0,0,0
-1136575,Rajasthan Royals,17,127.0,5.0,160.0,0,0
-1136575,Rajasthan Royals,18,141.0,5.0,160.0,0,0
-1136575,Rajasthan Royals,19,151.0,7.0,160.0,0,0
-1136577,Chennai Super Kings,16,165.0,4.0,204.0,1,1
-1136577,Chennai Super Kings,17,175.0,4.0,204.0,1,1
-1136577,Chennai Super Kings,18,184.0,4.0,204.0,1,1
-1136577,Chennai Super Kings,19,196.0,4.0,204.0,1,1
-1136591,Royal Challengers Bangalore,16,129.0,3.0,167.0,0,0
-1136591,Royal Challengers Bangalore,17,139.0,3.0,167.0,0,0
-1136591,Royal Challengers Bangalore,18,141.0,6.0,167.0,0,0
-1136591,Royal Challengers Bangalore,19,143.0,7.0,167.0,0,0
-1136595,Royal Challengers Bangalore,16,92.0,8.0,127.0,0,0
-1136595,Royal Challengers Bangalore,17,99.0,8.0,127.0,0,0
-1136595,Royal Challengers Bangalore,18,112.0,8.0,127.0,0,0
-1136595,Royal Challengers Bangalore,19,123.0,8.0,127.0,0,0
-1136598,Rajasthan Royals,16,123.0,7.0,152.0,0,0
-1136598,Rajasthan Royals,17,129.0,7.0,152.0,0,0
-1136598,Rajasthan Royals,18,137.0,8.0,152.0,0,0
-1136598,Rajasthan Royals,19,148.0,8.0,152.0,0,0
-1136600,Rajasthan Royals,16,131.0,3.0,158.0,0,0
-1136600,Rajasthan Royals,17,133.0,4.0,158.0,0,0
-1136600,Rajasthan Royals,18,147.0,5.0,158.0,0,0
-1136600,Rajasthan Royals,19,152.0,5.0,158.0,0,0
-1136603,Chennai Super Kings,16,134.0,3.0,176.0,0,1
-1136603,Chennai Super Kings,17,142.0,3.0,176.0,0,0
-1136603,Chennai Super Kings,18,153.0,3.0,176.0,0,1
-1136603,Chennai Super Kings,19,164.0,3.0,176.0,0,1
-1136618,Kolkata Knight Riders,16,116.0,5.0,169.0,0,0
-1136618,Kolkata Knight Riders,17,135.0,5.0,169.0,0,0
-1136618,Kolkata Knight Riders,18,149.0,6.0,169.0,0,0
-1136618,Kolkata Knight Riders,19,157.0,6.0,169.0,0,0
-1175356,Royal Challengers Bangalore,16,69.0,8.0,70.0,0,0
-1175356,Royal Challengers Bangalore,17,70.0,9.0,70.0,0,0
-1175356,Royal Challengers Bangalore,18,70.0,10.0,70.0,0,0
-1175357,Sunrisers Hyderabad,16,144.0,2.0,181.0,1,1
-1175357,Sunrisers Hyderabad,17,149.0,2.0,181.0,1,0
-1175357,Sunrisers Hyderabad,18,158.0,3.0,181.0,1,0
-1175357,Sunrisers Hyderabad,19,170.0,3.0,181.0,1,0
-1175368,Kings XI Punjab,16,136.0,4.0,166.0,0,0
-1175368,Kings XI Punjab,17,141.0,5.0,166.0,0,0
-1175368,Kings XI Punjab,18,148.0,6.0,166.0,0,0
-1175368,Kings XI Punjab,19,153.0,7.0,166.0,0,0
-1175371,Delhi Capitals,16,93.0,5.0,129.0,0,0
-1175371,Delhi Capitals,17,97.0,6.0,129.0,0,0
-1175371,Delhi Capitals,18,105.0,6.0,129.0,0,0
-1175371,Delhi Capitals,19,115.0,7.0,129.0,0,0
-1175372,Royal Challengers Bangalore,16,153.0,1.0,205.0,1,1
-1175372,Royal Challengers Bangalore,17,172.0,1.0,205.0,1,1
-1175372,Royal Challengers Bangalore,18,181.0,2.0,205.0,1,1
-1175372,Royal Challengers Bangalore,19,187.0,3.0,205.0,1,1
-1178395,Royal Challengers Bangalore,16,114.0,4.0,149.0,0,0
-1178395,Royal Challengers Bangalore,17,133.0,4.0,149.0,0,0
-1178395,Royal Challengers Bangalore,18,138.0,7.0,149.0,0,0
-1178395,Royal Challengers Bangalore,19,142.0,8.0,149.0,0,0
-1178398,Kolkata Knight Riders,16,77.0,8.0,108.0,0,0
-1178398,Kolkata Knight Riders,17,79.0,9.0,108.0,0,0
-1178398,Kolkata Knight Riders,18,87.0,9.0,108.0,0,0
-1178398,Kolkata Knight Riders,19,93.0,9.0,108.0,0,0
-1178402,Mumbai Indians,16,135.0,2.0,187.0,1,1
-1178402,Mumbai Indians,17,145.0,3.0,187.0,1,1
-1178402,Mumbai Indians,18,158.0,3.0,187.0,1,1
-1178402,Mumbai Indians,19,171.0,4.0,187.0,1,1
-1178416,Sunrisers Hyderabad,16,138.0,2.0,175.0,0,1
-1178416,Sunrisers Hyderabad,17,151.0,2.0,175.0,0,1
-1178416,Sunrisers Hyderabad,18,160.0,2.0,175.0,0,1
-1178416,Sunrisers Hyderabad,19,167.0,3.0,175.0,0,0
-1181768,Mumbai Indians,16,110.0,5.0,149.0,0,0
-1181768,Mumbai Indians,17,120.0,5.0,149.0,0,0
-1181768,Mumbai Indians,18,136.0,5.0,149.0,0,0
-1181768,Mumbai Indians,19,140.0,7.0,149.0,0,0
-1216493,Delhi Capitals,16,96.0,5.0,157.0,0,0
-1216493,Delhi Capitals,17,100.0,6.0,157.0,0,0
-1216493,Delhi Capitals,18,113.0,6.0,157.0,0,0
-1216493,Delhi Capitals,19,127.0,7.0,157.0,0,0
-1216495,Mumbai Indians,16,109.0,5.0,149.0,0,0
-1216495,Mumbai Indians,17,116.0,6.0,149.0,0,0
-1216495,Mumbai Indians,18,119.0,7.0,149.0,0,0
-1216495,Mumbai Indians,19,139.0,7.0,149.0,0,0
-1216497,Kolkata Knight Riders,16,151.0,3.0,194.0,1,1
-1216497,Kolkata Knight Riders,17,161.0,4.0,194.0,1,1
-1216497,Kolkata Knight Riders,18,170.0,4.0,194.0,1,1
-1216497,Kolkata Knight Riders,19,184.0,4.0,194.0,1,1
-1216498,Kings XI Punjab,16,94.0,5.0,126.0,0,0
-1216498,Kings XI Punjab,17,101.0,5.0,126.0,0,0
-1216498,Kings XI Punjab,18,108.0,6.0,126.0,0,0
-1216498,Kings XI Punjab,19,117.0,7.0,126.0,0,0
-1216501,Kolkata Knight Riders,16,133.0,5.0,167.0,0,0
-1216501,Kolkata Knight Riders,17,140.0,6.0,167.0,0,0
-1216501,Kolkata Knight Riders,18,154.0,6.0,167.0,0,0
-1216501,Kolkata Knight Riders,19,162.0,7.0,167.0,0,0
-1216503,Mumbai Indians,16,124.0,3.0,191.0,1,0
-1216503,Mumbai Indians,17,129.0,4.0,191.0,1,0
-1216503,Mumbai Indians,18,147.0,4.0,191.0,1,0
-1216503,Mumbai Indians,19,166.0,4.0,191.0,1,1
-1216525,Royal Challengers Bangalore,16,103.0,4.0,169.0,0,0
-1216525,Royal Challengers Bangalore,17,117.0,4.0,169.0,0,0
-1216525,Royal Challengers Bangalore,18,141.0,4.0,169.0,0,0
-1216525,Royal Challengers Bangalore,19,155.0,4.0,169.0,0,0
-1216528,Chennai Super Kings,16,119.0,3.0,167.0,0,0
-1216528,Chennai Super Kings,17,129.0,4.0,167.0,0,0
-1216528,Chennai Super Kings,18,138.0,4.0,167.0,0,0
-1216528,Chennai Super Kings,19,152.0,5.0,167.0,0,0
-1216534,Royal Challengers Bangalore,16,124.0,3.0,163.0,0,0
-1216534,Royal Challengers Bangalore,17,132.0,3.0,163.0,0,0
-1216534,Royal Challengers Bangalore,18,141.0,3.0,163.0,0,0
-1216534,Royal Challengers Bangalore,19,155.0,3.0,163.0,0,0
-1216544,Royal Challengers Bangalore,16,114.0,2.0,145.0,0,0
-1216544,Royal Challengers Bangalore,17,125.0,2.0,145.0,0,0
-1216544,Royal Challengers Bangalore,18,132.0,3.0,145.0,0,0
-1216544,Royal Challengers Bangalore,19,138.0,5.0,145.0,0,0
-1216545,Sunrisers Hyderabad,16,110.0,2.0,142.0,0,0
-1216545,Sunrisers Hyderabad,17,118.0,2.0,142.0,0,0
-1216545,Sunrisers Hyderabad,18,127.0,3.0,142.0,0,0
-1216545,Sunrisers Hyderabad,19,133.0,3.0,142.0,0,0
-1216547,Royal Challengers Bangalore,16,136.0,2.0,201.0,1,0
-1216547,Royal Challengers Bangalore,17,154.0,2.0,201.0,1,1
-1216547,Royal Challengers Bangalore,18,164.0,3.0,201.0,1,1
-1216547,Royal Challengers Bangalore,19,181.0,3.0,201.0,1,1
-1237180,Delhi Capitals,16,145.0,2.0,189.0,1,1
-1237180,Delhi Capitals,17,158.0,2.0,189.0,1,1
-1237180,Delhi Capitals,18,176.0,2.0,189.0,1,1
-1237180,Delhi Capitals,19,182.0,3.0,189.0,1,1
-1254059,Chennai Super Kings,16,143.0,6.0,188.0,1,1
-1254059,Chennai Super Kings,17,150.0,6.0,188.0,1,1
-1254059,Chennai Super Kings,18,155.0,6.0,188.0,1,0
-1254059,Chennai Super Kings,19,178.0,6.0,188.0,1,1
-1254083,Punjab Kings,16,126.0,5.0,179.0,0,0
-1254083,Punjab Kings,17,132.0,5.0,179.0,0,0
-1254083,Punjab Kings,18,150.0,5.0,179.0,0,0
-1254083,Punjab Kings,19,157.0,5.0,179.0,0,0
-1254089,Chennai Super Kings,16,133.0,3.0,189.0,1,0
-1254089,Chennai Super Kings,17,141.0,4.0,189.0,1,0
-1254089,Chennai Super Kings,18,155.0,4.0,189.0,1,0
-1254089,Chennai Super Kings,19,167.0,4.0,189.0,1,1
-1254104,Chennai Super Kings,16,98.0,5.0,156.0,0,0
-1254104,Chennai Super Kings,17,107.0,6.0,156.0,0,0
-1254104,Chennai Super Kings,18,117.0,6.0,156.0,0,0
-1254104,Chennai Super Kings,19,141.0,6.0,156.0,0,0
-1254106,Kolkata Knight Riders,16,135.0,3.0,171.0,0,1
-1254106,Kolkata Knight Riders,17,145.0,3.0,171.0,0,1
-1254106,Kolkata Knight Riders,18,148.0,4.0,171.0,0,0
-1254106,Kolkata Knight Riders,19,155.0,4.0,171.0,0,0
-1254114,Delhi Capitals,16,128.0,4.0,172.0,0,0
-1254114,Delhi Capitals,17,141.0,4.0,172.0,0,0
-1254114,Delhi Capitals,18,153.0,4.0,172.0,0,0
-1254114,Delhi Capitals,19,164.0,5.0,172.0,0,0
-1304073,Royal Challengers Bangalore,16,120.0,5.0,189.0,1,0
-1304073,Royal Challengers Bangalore,17,132.0,5.0,189.0,1,0
-1304073,Royal Challengers Bangalore,18,160.0,5.0,189.0,1,1
-1304073,Royal Challengers Bangalore,19,172.0,5.0,189.0,1,1
-1304079,Mumbai Indians,16,110.0,5.0,155.0,0,0
-1304079,Mumbai Indians,17,119.0,6.0,155.0,0,0
-1304079,Mumbai Indians,18,126.0,7.0,155.0,0,0
-1304079,Mumbai Indians,19,139.0,7.0,155.0,0,0
-1304082,Royal Challengers Bangalore,16,68.0,9.0,68.0,0,0
-1304082,Royal Challengers Bangalore,17,68.0,10.0,68.0,0,0
-1304084,Punjab Kings,16,136.0,1.0,187.0,1,1
-1304084,Punjab Kings,17,145.0,1.0,187.0,1,1
-1304084,Punjab Kings,18,152.0,2.0,187.0,1,1
-1304084,Punjab Kings,19,174.0,2.0,187.0,1,1
-1304086,Sunrisers Hyderabad,16,145.0,3.0,195.0,1,1
-1304086,Sunrisers Hyderabad,17,155.0,4.0,195.0,1,1
-1304086,Sunrisers Hyderabad,18,161.0,5.0,195.0,1,1
-1304086,Sunrisers Hyderabad,19,170.0,6.0,195.0,1,1
-1304088,Lucknow Super Giants,16,111.0,6.0,153.0,0,0
-1304088,Lucknow Super Giants,17,118.0,6.0,153.0,0,0
-1304088,Lucknow Super Giants,18,132.0,7.0,153.0,0,0
-1304088,Lucknow Super Giants,19,144.0,8.0,153.0,0,0
-1304092,Chennai Super Kings,16,166.0,0.0,202.0,1,1
-1304092,Chennai Super Kings,17,172.0,0.0,202.0,1,1
-1304092,Chennai Super Kings,18,183.0,1.0,202.0,1,1
-1304092,Chennai Super Kings,19,191.0,1.0,202.0,1,1
-1304097,Mumbai Indians,16,134.0,4.0,177.0,0,0
-1304097,Mumbai Indians,17,142.0,4.0,177.0,0,0
-1304097,Mumbai Indians,18,152.0,4.0,177.0,0,0
-1304097,Mumbai Indians,19,164.0,6.0,177.0,0,0
-1304098,Punjab Kings,16,132.0,4.0,189.0,1,1
-1304098,Punjab Kings,17,147.0,4.0,189.0,1,1
-1304098,Punjab Kings,18,158.0,4.0,189.0,1,1
-1304098,Punjab Kings,19,173.0,5.0,189.0,1,1
-1304103,Gujarat Titans,16,103.0,4.0,144.0,0,0
-1304103,Gujarat Titans,17,117.0,4.0,144.0,0,0
-1304103,Gujarat Titans,18,122.0,4.0,144.0,0,0
-1304103,Gujarat Titans,19,128.0,4.0,144.0,0,0
-1304106,Punjab Kings,16,163.0,4.0,209.0,1,1
-1304106,Punjab Kings,17,166.0,5.0,209.0,1,1
-1304106,Punjab Kings,18,181.0,6.0,209.0,1,1
-1304106,Punjab Kings,19,205.0,6.0,209.0,1,1
-1304111,Sunrisers Hyderabad,16,164.0,2.0,193.0,1,1
-1304111,Sunrisers Hyderabad,17,173.0,3.0,193.0,1,1
-1304111,Sunrisers Hyderabad,18,175.0,5.0,193.0,1,1
-1304111,Sunrisers Hyderabad,19,186.0,5.0,193.0,1,1
-1312197,Rajasthan Royals,16,127.0,3.0,188.0,1,0
-1312197,Rajasthan Royals,17,145.0,3.0,188.0,1,0
-1312197,Rajasthan Royals,18,159.0,3.0,188.0,1,0
-1312197,Rajasthan Royals,19,172.0,4.0,188.0,1,0
-1312198,Royal Challengers Bangalore,16,150.0,4.0,207.0,1,1
-1312198,Royal Challengers Bangalore,17,165.0,4.0,207.0,1,1
-1312198,Royal Challengers Bangalore,18,173.0,4.0,207.0,1,1
-1312198,Royal Challengers Bangalore,19,194.0,4.0,207.0,1,1
-1312199,Royal Challengers Bangalore,16,132.0,4.0,157.0,0,0
-1312199,Royal Challengers Bangalore,17,139.0,4.0,157.0,0,0
-1312199,Royal Challengers Bangalore,18,146.0,5.0,157.0,0,0
-1312199,Royal Challengers Bangalore,19,154.0,7.0,157.0,0,0
-1359476,Punjab Kings,16,153.0,4.0,191.0,1,1
-1359476,Punjab Kings,17,164.0,4.0,191.0,1,1
-1359476,Punjab Kings,18,168.0,5.0,191.0,1,1
-1359476,Punjab Kings,19,176.0,5.0,191.0,1,1
-1359477,Lucknow Super Giants,16,131.0,4.0,193.0,1,0
-1359477,Lucknow Super Giants,17,150.0,4.0,193.0,1,1
-1359477,Lucknow Super Giants,18,157.0,4.0,193.0,1,0
-1359477,Lucknow Super Giants,19,171.0,5.0,193.0,1,1
-1359478,Rajasthan Royals,16,170.0,3.0,203.0,1,1
-1359478,Rajasthan Royals,17,173.0,4.0,203.0,1,1
-1359478,Rajasthan Royals,18,186.0,4.0,203.0,1,1
-1359478,Rajasthan Royals,19,193.0,5.0,203.0,1,1
-1359479,Mumbai Indians,16,111.0,6.0,171.0,0,0
-1359479,Mumbai Indians,17,123.0,6.0,171.0,0,0
-1359479,Mumbai Indians,18,133.0,7.0,171.0,0,0
-1359479,Mumbai Indians,19,149.0,7.0,171.0,0,0
-1359489,Royal Challengers Bangalore,16,146.0,1.0,212.0,1,1
-1359489,Royal Challengers Bangalore,17,160.0,1.0,212.0,1,1
-1359489,Royal Challengers Bangalore,18,183.0,1.0,212.0,1,1
-1359489,Royal Challengers Bangalore,19,203.0,1.0,212.0,1,1
-1359491,Rajasthan Royals,16,141.0,4.0,175.0,0,0
-1359491,Rajasthan Royals,17,144.0,5.0,175.0,0,0
-1359491,Rajasthan Royals,18,157.0,5.0,175.0,0,0
-1359491,Rajasthan Royals,19,167.0,6.0,175.0,0,0
-1359495,Lucknow Super Giants,16,126.0,4.0,159.0,0,0
-1359495,Lucknow Super Giants,17,138.0,4.0,159.0,0,0
-1359495,Lucknow Super Giants,18,143.0,5.0,159.0,0,0
-1359495,Lucknow Super Giants,19,152.0,6.0,159.0,0,0
-1359501,Royal Challengers Bangalore,16,137.0,0.0,174.0,0,1
-1359501,Royal Challengers Bangalore,17,145.0,2.0,174.0,0,1
-1359501,Royal Challengers Bangalore,18,154.0,3.0,174.0,0,1
-1359501,Royal Challengers Bangalore,19,163.0,4.0,174.0,0,1
-1359502,Kolkata Knight Riders,16,97.0,9.0,127.0,0,0
-1359502,Kolkata Knight Riders,17,100.0,9.0,127.0,0,0
-1359502,Kolkata Knight Riders,18,105.0,9.0,127.0,0,0
-1359502,Kolkata Knight Riders,19,108.0,9.0,127.0,0,0
-1359506,Royal Challengers Bangalore,16,162.0,4.0,189.0,1,1
-1359506,Royal Challengers Bangalore,17,164.0,6.0,189.0,1,1
-1359506,Royal Challengers Bangalore,18,170.0,6.0,189.0,1,1
-1359506,Royal Challengers Bangalore,19,179.0,6.0,189.0,1,1
-1359509,Gujarat Titans,16,137.0,4.0,207.0,1,0
-1359509,Gujarat Titans,17,150.0,4.0,207.0,1,0
-1359509,Gujarat Titans,18,172.0,4.0,207.0,1,1
-1359509,Gujarat Titans,19,191.0,5.0,207.0,1,1
-1359510,Kolkata Knight Riders,16,150.0,2.0,200.0,1,1
-1359510,Kolkata Knight Riders,17,167.0,2.0,200.0,1,1
-1359510,Kolkata Knight Riders,18,170.0,4.0,200.0,1,1
-1359510,Kolkata Knight Riders,19,185.0,5.0,200.0,1,1
-1359521,Kolkata Knight Riders,16,137.0,6.0,171.0,0,1
-1359521,Kolkata Knight Riders,17,148.0,6.0,171.0,0,1
-1359521,Kolkata Knight Riders,18,155.0,7.0,171.0,0,0
-1359521,Kolkata Knight Riders,19,168.0,7.0,171.0,0,0
-1359522,Rajasthan Royals,16,110.0,8.0,118.0,0,0
-1359522,Rajasthan Royals,17,113.0,9.0,118.0,0,0
-1359522,Rajasthan Royals,18,118.0,10.0,118.0,0,0
-1359530,Kolkata Knight Riders,16,127.0,4.0,149.0,0,0
-1359530,Kolkata Knight Riders,17,131.0,6.0,149.0,0,0
-1359530,Kolkata Knight Riders,18,139.0,6.0,149.0,0,0
-1359530,Kolkata Knight Riders,19,142.0,7.0,149.0,0,0
-1359535,Chennai Super Kings,16,99.0,5.0,144.0,0,0
-1359535,Chennai Super Kings,17,115.0,5.0,144.0,0,0
-1359535,Chennai Super Kings,18,130.0,5.0,144.0,0,0
-1359535,Chennai Super Kings,19,135.0,5.0,144.0,0,0
-1359537,Lucknow Super Giants,16,117.0,4.0,177.0,0,0
-1359537,Lucknow Super Giants,17,123.0,4.0,177.0,0,0
-1359537,Lucknow Super Giants,18,147.0,4.0,177.0,0,0
-1359537,Lucknow Super Giants,19,162.0,4.0,177.0,0,0
-1359542,Lucknow Super Giants,16,122.0,5.0,176.0,0,0
-1359542,Lucknow Super Giants,17,133.0,5.0,176.0,0,0
-1359542,Lucknow Super Giants,18,147.0,6.0,176.0,0,0
-1359542,Lucknow Super Giants,19,163.0,8.0,176.0,0,0
-1359544,Royal Challengers Bangalore,16,149.0,5.0,197.0,1,1
-1359544,Royal Challengers Bangalore,17,155.0,5.0,197.0,1,1
-1359544,Royal Challengers Bangalore,18,169.0,5.0,197.0,1,1
-1359544,Royal Challengers Bangalore,19,182.0,5.0,197.0,1,1
-1422122,Rajasthan Royals,16,149.0,3.0,193.0,1,1
-1422122,Rajasthan Royals,17,158.0,4.0,193.0,1,1
-1422122,Rajasthan Royals,18,171.0,4.0,193.0,1,1
-1422122,Rajasthan Royals,19,179.0,4.0,193.0,1,1
-1422132,Mumbai Indians,16,111.0,7.0,125.0,0,0
-1422132,Mumbai Indians,17,112.0,8.0,125.0,0,0
-1422132,Mumbai Indians,18,114.0,8.0,125.0,0,0
-1422132,Mumbai Indians,19,115.0,9.0,125.0,0,0
-1422133,Lucknow Super Giants,16,141.0,3.0,181.0,1,1
-1422133,Lucknow Super Giants,17,143.0,4.0,181.0,1,0
-1422133,Lucknow Super Giants,18,148.0,5.0,181.0,1,0
-1422133,Lucknow Super Giants,19,168.0,5.0,181.0,1,0
-1426263,Royal Challengers Bengaluru,16,149.0,4.0,196.0,1,1
-1426263,Royal Challengers Bengaluru,17,154.0,6.0,196.0,1,1
-1426263,Royal Challengers Bengaluru,18,168.0,6.0,196.0,1,1
-1426263,Royal Challengers Bengaluru,19,177.0,8.0,196.0,1,1
-1426265,Punjab Kings,16,103.0,5.0,147.0,0,0
-1426265,Punjab Kings,17,111.0,6.0,147.0,0,0
-1426265,Punjab Kings,18,123.0,7.0,147.0,0,0
-1426265,Punjab Kings,19,141.0,7.0,147.0,0,0
-1426266,Lucknow Super Giants,16,118.0,5.0,161.0,0,0
-1426266,Lucknow Super Giants,17,126.0,5.0,161.0,0,0
-1426266,Lucknow Super Giants,18,144.0,5.0,161.0,0,0
-1426266,Lucknow Super Giants,19,155.0,5.0,161.0,0,0
-1426279,Royal Challengers Bengaluru,16,157.0,4.0,206.0,1,1
-1426279,Royal Challengers Bengaluru,17,167.0,5.0,206.0,1,1
-1426279,Royal Challengers Bengaluru,18,179.0,5.0,206.0,1,1
-1426279,Royal Challengers Bengaluru,19,194.0,6.0,206.0,1,1
-1426283,Gujarat Titans,16,148.0,3.0,200.0,1,1
-1426283,Gujarat Titans,17,156.0,3.0,200.0,1,1
-1426283,Gujarat Titans,18,171.0,3.0,200.0,1,1
-1426283,Gujarat Titans,19,184.0,3.0,200.0,1,1
-1426306,Royal Challengers Bengaluru,16,155.0,2.0,218.0,1,1
-1426306,Royal Challengers Bengaluru,17,171.0,2.0,218.0,1,1
-1426306,Royal Challengers Bengaluru,18,187.0,3.0,218.0,1,1
-1426306,Royal Challengers Bengaluru,19,205.0,4.0,218.0,1,1
-1426309,Sunrisers Hyderabad,16,126.0,9.0,159.0,0,0
-1426309,Sunrisers Hyderabad,17,133.0,9.0,159.0,0,0
-1426309,Sunrisers Hyderabad,18,144.0,9.0,159.0,0,0
-1426309,Sunrisers Hyderabad,19,156.0,9.0,159.0,0,0
-1426312,Sunrisers Hyderabad,16,98.0,8.0,113.0,0,0
-1426312,Sunrisers Hyderabad,17,108.0,8.0,113.0,0,0
-1426312,Sunrisers Hyderabad,18,113.0,9.0,113.0,0,0
-1426312,Sunrisers Hyderabad,19,113.0,10.0,113.0,0,0
+335984,Rajasthan Royals,16,106,7,129,0,0
+335984,Rajasthan Royals,17,110,7,129,0,0
+335984,Rajasthan Royals,18,111,8,129,0,0
+335984,Rajasthan Royals,19,121,8,129,0,0
+335985,Mumbai Indians,16,118,4,165,0,0
+335985,Mumbai Indians,17,129,5,165,0,0
+335985,Mumbai Indians,18,149,5,165,0,0
+335985,Mumbai Indians,19,158,6,165,0,0
+335992,Royal Challengers Bangalore,16,108,7,135,0,0
+335992,Royal Challengers Bangalore,17,112,7,135,0,0
+335992,Royal Challengers Bangalore,18,121,7,135,0,0
+335992,Royal Challengers Bangalore,19,130,7,135,0,0
+335994,Mumbai Indians,16,114,5,154,0,0
+335994,Mumbai Indians,17,124,6,154,0,0
+335994,Mumbai Indians,18,135,6,154,0,0
+335994,Mumbai Indians,19,147,6,154,0,0
+336005,Chennai Super Kings,16,96,7,109,0,0
+336005,Chennai Super Kings,17,97,9,109,0,0
+336005,Chennai Super Kings,18,98,9,109,0,0
+336005,Chennai Super Kings,19,109,10,109,0,0
+336012,Royal Challengers Bangalore,16,104,7,122,0,0
+336012,Royal Challengers Bangalore,17,115,7,122,0,0
+336012,Royal Challengers Bangalore,18,122,9,122,0,0
+336013,Chennai Super Kings,16,149,3,181,1,1
+336013,Chennai Super Kings,17,154,3,181,1,1
+336013,Chennai Super Kings,18,159,4,181,1,1
+336013,Chennai Super Kings,19,176,4,181,1,1
+336021,Kolkata Knight Riders,16,67,10,67,0,0
+336026,Royal Challengers Bangalore,16,105,5,154,0,0
+336026,Royal Challengers Bangalore,17,119,5,154,0,0
+336026,Royal Challengers Bangalore,18,124,6,154,0,0
+336026,Royal Challengers Bangalore,19,130,7,154,0,0
+336032,Mumbai Indians,16,128,4,176,0,0
+336032,Mumbai Indians,17,137,4,176,0,0
+336032,Mumbai Indians,18,145,5,176,0,0
+336032,Mumbai Indians,19,162,5,176,0,0
+336034,Royal Challengers Bangalore,16,122,5,156,0,0
+336034,Royal Challengers Bangalore,17,126,5,156,0,0
+336034,Royal Challengers Bangalore,18,130,5,156,0,0
+336034,Royal Challengers Bangalore,19,143,6,156,0,0
+336037,Deccan Chargers,16,104,3,147,0,0
+336037,Deccan Chargers,17,112,3,147,0,0
+336037,Deccan Chargers,18,127,3,147,0,0
+336037,Deccan Chargers,19,140,6,147,0,0
+336039,Kings XI Punjab,16,73,7,112,0,0
+336039,Kings XI Punjab,17,79,7,112,0,0
+336039,Kings XI Punjab,18,84,7,112,0,0
+336039,Kings XI Punjab,19,98,8,112,0,0
+392181,Mumbai Indians,16,112,4,165,0,0
+392181,Mumbai Indians,17,126,4,165,0,0
+392181,Mumbai Indians,18,148,4,165,0,0
+392181,Mumbai Indians,19,157,6,165,0,0
+392182,Royal Challengers Bangalore,16,88,6,133,0,0
+392182,Royal Challengers Bangalore,17,98,6,133,0,0
+392182,Royal Challengers Bangalore,18,106,6,133,0,0
+392182,Royal Challengers Bangalore,19,117,6,133,0,0
+392186,Kings XI Punjab,16,123,5,158,0,0
+392186,Kings XI Punjab,17,130,5,158,0,0
+392186,Kings XI Punjab,18,134,6,158,0,0
+392186,Kings XI Punjab,19,142,6,158,0,0
+392190,Rajasthan Royals,16,111,4,150,0,0
+392190,Rajasthan Royals,17,119,5,150,0,0
+392190,Rajasthan Royals,18,125,6,150,0,0
+392190,Rajasthan Royals,19,132,6,150,0,0
+392191,Royal Challengers Bangalore,16,131,4,168,0,0
+392191,Royal Challengers Bangalore,17,136,5,168,0,0
+392191,Royal Challengers Bangalore,18,145,6,168,0,0
+392191,Royal Challengers Bangalore,19,162,7,168,0,0
+392195,Kings XI Punjab,16,107,4,139,0,0
+392195,Kings XI Punjab,17,111,4,139,0,0
+392195,Kings XI Punjab,18,123,4,139,0,0
+392195,Kings XI Punjab,19,130,6,139,0,0
+392201,Deccan Chargers,16,127,5,148,0,0
+392201,Deccan Chargers,17,134,5,148,0,0
+392201,Deccan Chargers,18,139,6,148,0,0
+392201,Deccan Chargers,19,140,7,148,0,0
+392203,Mumbai Indians,16,97,5,148,0,0
+392203,Mumbai Indians,17,106,5,148,0,0
+392203,Mumbai Indians,18,122,5,148,0,0
+392203,Mumbai Indians,19,132,6,148,0,0
+392208,Mumbai Indians,16,94,4,149,0,0
+392208,Mumbai Indians,17,101,4,149,0,0
+392208,Mumbai Indians,18,115,4,149,0,0
+392208,Mumbai Indians,19,133,4,149,0,0
+392211,Kolkata Knight Riders,16,111,2,154,0,0
+392211,Kolkata Knight Riders,17,128,2,154,0,0
+392211,Kolkata Knight Riders,18,139,2,154,0,0
+392211,Kolkata Knight Riders,19,147,2,154,0,0
+392213,Royal Challengers Bangalore,16,82,6,105,0,0
+392213,Royal Challengers Bangalore,17,92,7,105,0,0
+392213,Royal Challengers Bangalore,18,93,8,105,0,0
+392213,Royal Challengers Bangalore,19,102,8,105,0,0
+392221,Kolkata Knight Riders,16,113,3,173,0,0
+392221,Kolkata Knight Riders,17,133,3,173,0,0
+392221,Kolkata Knight Riders,18,137,4,173,0,0
+392221,Kolkata Knight Riders,19,153,4,173,0,0
+392225,Rajasthan Royals,16,126,3,145,0,0
+392225,Rajasthan Royals,17,130,3,145,0,0
+392225,Rajasthan Royals,18,138,3,145,0,0
+392225,Rajasthan Royals,19,142,4,145,0,0
+392226,Delhi Daredevils,16,104,5,120,0,0
+392226,Delhi Daredevils,17,104,6,120,0,0
+392226,Delhi Daredevils,18,111,7,120,0,0
+392226,Delhi Daredevils,19,114,8,120,0,0
+392232,Delhi Daredevils,16,100,5,134,0,0
+392232,Delhi Daredevils,17,110,6,134,0,0
+392232,Delhi Daredevils,18,115,7,134,0,0
+392232,Delhi Daredevils,19,122,7,134,0,0
+392234,Chennai Super Kings,16,100,6,116,0,0
+392234,Chennai Super Kings,17,102,6,116,0,0
+392234,Chennai Super Kings,18,109,8,116,0,0
+392234,Chennai Super Kings,19,110,8,116,0,0
+392238,Chennai Super Kings,16,114,3,146,0,0
+392238,Chennai Super Kings,17,124,3,146,0,0
+392238,Chennai Super Kings,18,130,4,146,0,0
+392238,Chennai Super Kings,19,140,4,146,0,0
+419127,Kolkata Knight Riders,16,130,4,183,1,0
+419127,Kolkata Knight Riders,17,141,4,183,1,0
+419127,Kolkata Knight Riders,18,153,4,183,1,0
+419127,Kolkata Knight Riders,19,162,4,183,1,0
+419130,Mumbai Indians,16,110,6,172,0,0
+419130,Mumbai Indians,17,120,7,172,0,0
+419130,Mumbai Indians,18,133,7,172,0,0
+419130,Mumbai Indians,19,152,7,172,0,0
+419132,Kings XI Punjab,16,124,6,163,0,0
+419132,Kings XI Punjab,17,133,7,163,0,0
+419132,Kings XI Punjab,18,139,8,163,0,0
+419132,Kings XI Punjab,19,150,9,163,0,0
+419147,Chennai Super Kings,16,114,4,138,0,0
+419147,Chennai Super Kings,17,121,5,138,0,0
+419147,Chennai Super Kings,18,125,6,138,0,0
+419147,Chennai Super Kings,19,132,6,138,0,0
+419149,Delhi Daredevils,16,88,8,111,0,0
+419149,Delhi Daredevils,17,96,8,111,0,0
+419149,Delhi Daredevils,18,103,8,111,0,0
+419149,Delhi Daredevils,19,107,9,111,0,0
+419159,Kings XI Punjab,16,139,3,192,1,0
+419159,Kings XI Punjab,17,146,3,192,1,0
+419159,Kings XI Punjab,18,157,3,192,1,0
+419159,Kings XI Punjab,19,176,3,192,1,1
+419165,Chennai Super Kings,16,127,3,168,0,0
+419165,Chennai Super Kings,17,139,3,168,0,0
+419165,Chennai Super Kings,18,146,4,168,0,0
+419165,Chennai Super Kings,19,157,4,168,0,0
+501201,Delhi Daredevils,16,88,8,95,0,0
+501201,Delhi Daredevils,17,90,9,95,0,0
+501201,Delhi Daredevils,18,95,10,95,0,0
+501207,Kochi Tuskers Kerala,16,113,5,148,0,0
+501207,Kochi Tuskers Kerala,17,117,7,148,0,0
+501207,Kochi Tuskers Kerala,18,120,7,148,0,0
+501207,Kochi Tuskers Kerala,19,129,7,148,0,0
+501215,Chennai Super Kings,16,117,4,131,0,0
+501215,Chennai Super Kings,17,131,4,131,0,0
+501222,Kolkata Knight Riders,16,128,2,171,0,0
+501222,Kolkata Knight Riders,17,138,2,171,0,0
+501222,Kolkata Knight Riders,18,154,3,171,0,1
+501222,Kolkata Knight Riders,19,164,3,171,0,1
+501223,Delhi Daredevils,16,180,3,231,1,1
+501223,Delhi Daredevils,17,184,4,231,1,1
+501223,Delhi Daredevils,18,197,4,231,1,1
+501223,Delhi Daredevils,19,209,4,231,1,1
+501232,Royal Challengers Bangalore,16,134,2,181,1,1
+501232,Royal Challengers Bangalore,17,141,3,181,1,1
+501232,Royal Challengers Bangalore,18,165,3,181,1,1
+501232,Royal Challengers Bangalore,19,175,4,181,1,1
+501233,Delhi Daredevils,16,112,4,157,0,0
+501233,Delhi Daredevils,17,123,4,157,0,0
+501233,Delhi Daredevils,18,138,5,157,0,0
+501233,Delhi Daredevils,19,147,6,157,0,0
+501234,Kings XI Punjab,16,93,5,119,0,0
+501234,Kings XI Punjab,17,100,5,119,0,0
+501234,Kings XI Punjab,18,103,5,119,0,0
+501234,Kings XI Punjab,19,110,5,119,0,0
+501242,Kochi Tuskers Kerala,16,102,4,156,0,0
+501242,Kochi Tuskers Kerala,17,114,4,156,0,0
+501242,Kochi Tuskers Kerala,18,125,4,156,0,0
+501242,Kochi Tuskers Kerala,19,134,5,156,0,0
+501244,Royal Challengers Bangalore,16,163,3,205,1,1
+501244,Royal Challengers Bangalore,17,176,3,205,1,1
+501244,Royal Challengers Bangalore,18,186,5,205,1,1
+501244,Royal Challengers Bangalore,19,197,5,205,1,1
+501261,Chennai Super Kings,16,114,4,152,0,0
+501261,Chennai Super Kings,17,120,5,152,0,0
+501261,Chennai Super Kings,18,127,5,152,0,0
+501261,Chennai Super Kings,19,141,5,152,0,0
+501267,Kolkata Knight Riders,16,124,4,175,0,0
+501267,Kolkata Knight Riders,17,137,4,175,0,0
+501267,Kolkata Knight Riders,18,156,5,175,0,0
+501267,Kolkata Knight Riders,19,166,5,175,0,0
+501268,Royal Challengers Bangalore,16,131,3,175,0,0
+501268,Royal Challengers Bangalore,17,135,4,175,0,0
+501268,Royal Challengers Bangalore,18,148,4,175,0,0
+501268,Royal Challengers Bangalore,19,167,4,175,0,1
+501271,Chennai Super Kings,16,167,1,205,1,1
+501271,Chennai Super Kings,17,172,1,205,1,1
+501271,Chennai Super Kings,18,188,1,205,1,1
+501271,Chennai Super Kings,19,198,3,205,1,1
+548314,Deccan Chargers,16,109,4,138,0,0
+548314,Deccan Chargers,17,119,4,138,0,0
+548314,Deccan Chargers,18,123,5,138,0,0
+548314,Deccan Chargers,19,130,7,138,0,0
+548318,Royal Challengers Bangalore,16,161,1,205,1,1
+548318,Royal Challengers Bangalore,17,173,2,205,1,1
+548318,Royal Challengers Bangalore,18,190,3,205,1,1
+548318,Royal Challengers Bangalore,19,198,4,205,1,1
+548328,Kings XI Punjab,16,96,4,124,0,0
+548328,Kings XI Punjab,17,103,5,124,0,0
+548328,Kings XI Punjab,18,107,6,124,0,0
+548328,Kings XI Punjab,19,114,6,124,0,0
+548331,Kings XI Punjab,16,112,5,163,0,0
+548331,Kings XI Punjab,17,125,5,163,0,0
+548331,Kings XI Punjab,18,139,5,163,0,0
+548331,Kings XI Punjab,19,149,5,163,0,0
+548333,Pune Warriors,16,136,2,192,1,1
+548333,Pune Warriors,17,148,2,192,1,1
+548333,Pune Warriors,18,171,2,192,1,1
+548333,Pune Warriors,19,180,2,192,1,1
+548339,Kings XI Punjab,16,116,3,168,0,0
+548339,Kings XI Punjab,17,124,3,168,0,0
+548339,Kings XI Punjab,18,140,3,168,0,0
+548339,Kings XI Punjab,19,152,3,168,0,0
+548346,Deccan Chargers,16,87,7,100,0,0
+548346,Deccan Chargers,17,90,8,100,0,0
+548346,Deccan Chargers,18,99,8,100,0,0
+548346,Deccan Chargers,19,100,10,100,0,0
+548349,Rajasthan Royals,16,115,5,141,0,0
+548349,Rajasthan Royals,17,123,5,141,0,0
+548349,Rajasthan Royals,18,128,5,141,0,0
+548349,Rajasthan Royals,19,134,6,141,0,0
+548350,Royal Challengers Bangalore,16,129,2,158,0,0
+548350,Royal Challengers Bangalore,17,135,3,158,0,0
+548350,Royal Challengers Bangalore,18,140,3,158,0,0
+548350,Royal Challengers Bangalore,19,154,3,158,0,0
+548356,Deccan Chargers,16,126,1,181,1,0
+548356,Deccan Chargers,17,142,1,181,1,1
+548356,Deccan Chargers,18,156,1,181,1,1
+548356,Deccan Chargers,19,167,1,181,1,1
+548366,Deccan Chargers,16,137,2,190,1,0
+548366,Deccan Chargers,17,145,3,190,1,0
+548366,Deccan Chargers,18,159,3,190,1,0
+548366,Deccan Chargers,19,179,3,190,1,1
+548367,Royal Challengers Bangalore,16,122,4,171,0,0
+548367,Royal Challengers Bangalore,17,128,4,171,0,0
+548367,Royal Challengers Bangalore,18,134,6,171,0,0
+548367,Royal Challengers Bangalore,19,147,6,171,0,0
+548369,Kings XI Punjab,16,106,6,136,0,0
+548369,Kings XI Punjab,17,117,6,136,0,0
+548369,Kings XI Punjab,18,126,7,136,0,0
+548369,Kings XI Punjab,19,131,8,136,0,0
+548378,Kolkata Knight Riders,16,106,4,162,0,0
+548378,Kolkata Knight Riders,17,115,4,162,0,0
+548378,Kolkata Knight Riders,18,126,4,162,0,0
+548378,Kolkata Knight Riders,19,141,4,162,0,0
+548379,Chennai Super Kings,16,128,5,187,1,0
+548379,Chennai Super Kings,17,141,5,187,1,0
+548379,Chennai Super Kings,18,150,5,187,1,0
+548379,Chennai Super Kings,19,168,5,187,1,0
+548381,Chennai Super Kings,16,146,1,190,1,1
+548381,Chennai Super Kings,17,160,1,190,1,1
+548381,Chennai Super Kings,18,171,2,190,1,1
+548381,Chennai Super Kings,19,182,2,190,1,1
+597999,Royal Challengers Bangalore,16,106,5,156,0,0
+597999,Royal Challengers Bangalore,17,115,5,156,0,0
+597999,Royal Challengers Bangalore,18,132,5,156,0,0
+597999,Royal Challengers Bangalore,19,140,5,156,0,0
+598007,Kings XI Punjab,16,123,5,138,0,0
+598007,Kings XI Punjab,17,131,6,138,0,0
+598007,Kings XI Punjab,18,133,8,138,0,0
+598007,Kings XI Punjab,19,137,9,138,0,0
+598009,Rajasthan Royals,16,106,5,145,0,0
+598009,Rajasthan Royals,17,112,5,145,0,0
+598009,Rajasthan Royals,18,126,5,145,0,0
+598009,Rajasthan Royals,19,130,5,145,0,0
+598010,Delhi Daredevils,16,76,5,114,0,0
+598010,Delhi Daredevils,17,93,5,114,0,0
+598010,Delhi Daredevils,18,97,7,114,0,0
+598010,Delhi Daredevils,19,101,8,114,0,0
+598020,Chennai Super Kings,16,123,2,169,0,0
+598020,Chennai Super Kings,17,131,2,169,0,0
+598020,Chennai Super Kings,18,150,2,169,0,0
+598020,Chennai Super Kings,19,160,2,169,0,0
+598022,Kolkata Knight Riders,16,91,8,119,0,0
+598022,Kolkata Knight Riders,17,100,8,119,0,0
+598022,Kolkata Knight Riders,18,107,9,119,0,0
+598022,Kolkata Knight Riders,19,115,9,119,0,0
+598030,Sunrisers Hyderabad,16,100,5,159,0,0
+598030,Sunrisers Hyderabad,17,115,5,159,0,0
+598030,Sunrisers Hyderabad,18,126,6,159,0,0
+598030,Sunrisers Hyderabad,19,143,6,159,0,0
+598031,Kings XI Punjab,16,120,4,149,0,0
+598031,Kings XI Punjab,17,126,4,149,0,0
+598031,Kings XI Punjab,18,129,5,149,0,0
+598031,Kings XI Punjab,19,131,6,149,0,0
+598037,Mumbai Indians,16,114,3,174,0,0
+598037,Mumbai Indians,17,128,3,174,0,0
+598037,Mumbai Indians,18,139,3,174,0,0
+598037,Mumbai Indians,19,147,3,174,0,0
+598038,Chennai Super Kings,16,114,3,164,0,0
+598038,Chennai Super Kings,17,121,3,164,0,0
+598038,Chennai Super Kings,18,138,3,164,0,0
+598038,Chennai Super Kings,19,150,3,164,0,0
+598043,Rajasthan Royals,16,108,4,132,0,0
+598043,Rajasthan Royals,17,115,4,132,0,0
+598043,Rajasthan Royals,18,119,5,132,0,0
+598043,Rajasthan Royals,19,123,5,132,0,0
+598047,Pune Warriors,16,133,3,178,0,1
+598047,Pune Warriors,17,142,3,178,0,1
+598047,Pune Warriors,18,151,3,178,0,1
+598047,Pune Warriors,19,165,3,178,0,1
+598056,Sunrisers Hyderabad,16,104,6,150,0,0
+598056,Sunrisers Hyderabad,17,114,6,150,0,0
+598056,Sunrisers Hyderabad,18,128,6,150,0,0
+598056,Sunrisers Hyderabad,19,142,7,150,0,0
+598064,Royal Challengers Bangalore,16,140,2,190,1,1
+598064,Royal Challengers Bangalore,17,145,3,190,1,1
+598064,Royal Challengers Bangalore,18,157,3,190,1,1
+598064,Royal Challengers Bangalore,19,169,3,190,1,1
+598066,Kings XI Punjab,16,143,2,183,1,1
+598066,Kings XI Punjab,17,156,3,183,1,1
+598066,Kings XI Punjab,18,164,4,183,1,0
+598066,Kings XI Punjab,19,174,5,183,1,0
+598070,Chennai Super Kings,16,137,1,192,1,0
+598070,Chennai Super Kings,17,151,1,192,1,1
+598070,Chennai Super Kings,18,161,1,192,1,1
+598070,Chennai Super Kings,19,173,1,192,1,1
+729291,Rajasthan Royals,16,146,4,191,1,1
+729291,Rajasthan Royals,17,159,5,191,1,1
+729291,Rajasthan Royals,18,174,5,191,1,1
+729291,Rajasthan Royals,19,183,5,191,1,1
+729293,Chennai Super Kings,16,119,3,177,0,0
+729293,Chennai Super Kings,17,135,3,177,0,0
+729293,Chennai Super Kings,18,150,4,177,0,0
+729293,Chennai Super Kings,19,162,6,177,0,0
+729301,Sunrisers Hyderabad,16,128,1,184,1,0
+729301,Sunrisers Hyderabad,17,139,1,184,1,0
+729301,Sunrisers Hyderabad,18,160,1,184,1,1
+729301,Sunrisers Hyderabad,19,174,1,184,1,1
+729309,Mumbai Indians,16,80,5,125,0,0
+729309,Mumbai Indians,17,94,5,125,0,0
+729309,Mumbai Indians,18,100,5,125,0,0
+729309,Mumbai Indians,19,113,6,125,0,0
+733989,Sunrisers Hyderabad,16,106,5,134,0,0
+733989,Sunrisers Hyderabad,17,111,7,134,0,0
+733989,Sunrisers Hyderabad,18,115,7,134,0,0
+733989,Sunrisers Hyderabad,19,122,7,134,0,0
+733991,Kings XI Punjab,16,166,4,198,1,1
+733991,Kings XI Punjab,17,173,5,198,1,1
+733991,Kings XI Punjab,18,184,6,198,1,1
+733991,Kings XI Punjab,19,188,6,198,1,1
+733995,Mumbai Indians,16,111,2,157,0,0
+733995,Mumbai Indians,17,118,2,157,0,0
+733995,Mumbai Indians,18,129,4,157,0,0
+733995,Mumbai Indians,19,139,5,157,0,0
+734005,Royal Challengers Bangalore,16,115,4,186,1,0
+734005,Royal Challengers Bangalore,17,136,4,186,1,0
+734005,Royal Challengers Bangalore,18,150,4,186,1,0
+734005,Royal Challengers Bangalore,19,159,4,186,1,0
+734007,Sunrisers Hyderabad,16,138,2,205,1,0
+734007,Sunrisers Hyderabad,17,149,2,205,1,0
+734007,Sunrisers Hyderabad,18,167,2,205,1,1
+734007,Sunrisers Hyderabad,19,193,4,205,1,1
+734015,Sunrisers Hyderabad,16,114,5,142,0,0
+734015,Sunrisers Hyderabad,17,126,5,142,0,0
+734015,Sunrisers Hyderabad,18,129,5,142,0,0
+734015,Sunrisers Hyderabad,19,136,6,142,0,0
+734037,Sunrisers Hyderabad,16,125,4,160,0,0
+734037,Sunrisers Hyderabad,17,127,5,160,0,0
+734037,Sunrisers Hyderabad,18,130,5,160,0,0
+734037,Sunrisers Hyderabad,19,147,5,160,0,0
+734041,Rajasthan Royals,16,141,3,189,1,0
+734041,Rajasthan Royals,17,143,3,189,1,0
+734041,Rajasthan Royals,18,161,3,189,1,0
+734041,Rajasthan Royals,19,173,3,189,1,0
+734049,Kings XI Punjab,16,140,2,199,1,1
+734049,Kings XI Punjab,17,159,2,199,1,1
+734049,Kings XI Punjab,18,170,4,199,1,1
+734049,Kings XI Punjab,19,187,4,199,1,1
+829705,Mumbai Indians,16,109,3,168,0,0
+829705,Mumbai Indians,17,122,3,168,0,0
+829705,Mumbai Indians,18,133,3,168,0,0
+829705,Mumbai Indians,19,148,3,168,0,0
+829713,Kolkata Knight Riders,16,131,2,177,0,0
+829713,Kolkata Knight Riders,17,137,4,177,0,0
+829713,Kolkata Knight Riders,18,149,4,177,0,0
+829713,Kolkata Knight Riders,19,163,4,177,0,0
+829739,Delhi Daredevils,16,105,5,146,0,0
+829739,Delhi Daredevils,17,117,5,146,0,0
+829739,Delhi Daredevils,18,123,6,146,0,0
+829739,Delhi Daredevils,19,143,6,146,0,0
+829743,Sunrisers Hyderabad,16,143,1,176,0,1
+829743,Sunrisers Hyderabad,17,149,2,176,0,1
+829743,Sunrisers Hyderabad,18,158,2,176,0,1
+829743,Sunrisers Hyderabad,19,164,3,176,0,0
+829751,Mumbai Indians,16,121,4,157,0,0
+829751,Mumbai Indians,17,126,5,157,0,0
+829751,Mumbai Indians,18,141,6,157,0,0
+829751,Mumbai Indians,19,149,6,157,0,0
+829761,Kolkata Knight Riders,16,119,4,171,0,0
+829761,Kolkata Knight Riders,17,135,5,171,0,0
+829761,Kolkata Knight Riders,18,143,5,171,0,0
+829761,Kolkata Knight Riders,19,153,6,171,0,0
+829777,Rajasthan Royals,16,130,1,189,1,0
+829777,Rajasthan Royals,17,149,1,189,1,1
+829777,Rajasthan Royals,18,159,1,189,1,1
+829777,Rajasthan Royals,19,174,2,189,1,1
+829789,Chennai Super Kings,16,108,4,158,0,0
+829789,Chennai Super Kings,17,122,4,158,0,0
+829789,Chennai Super Kings,18,133,4,158,0,0
+829789,Chennai Super Kings,19,147,4,158,0,0
+829819,Royal Challengers Bangalore,16,124,2,180,1,0
+829819,Royal Challengers Bangalore,17,137,2,180,1,1
+829819,Royal Challengers Bangalore,18,154,2,180,1,1
+829819,Royal Challengers Bangalore,19,169,3,180,1,1
+829823,Mumbai Indians,16,150,3,202,1,1
+829823,Mumbai Indians,17,173,3,202,1,1
+829823,Mumbai Indians,18,183,3,202,1,1
+829823,Mumbai Indians,19,191,4,202,1,1
+980903,Delhi Daredevils,16,92,9,98,0,0
+980903,Delhi Daredevils,17,93,9,98,0,0
+980903,Delhi Daredevils,18,98,10,98,0,0
+980905,Kings XI Punjab,16,130,4,161,0,0
+980905,Kings XI Punjab,17,136,4,161,0,0
+980905,Kings XI Punjab,18,146,4,161,0,0
+980905,Kings XI Punjab,19,155,4,161,0,0
+980913,Kings XI Punjab,16,85,7,111,0,0
+980913,Kings XI Punjab,17,90,7,111,0,0
+980913,Kings XI Punjab,18,96,8,111,0,0
+980913,Kings XI Punjab,19,99,9,111,0,0
+980917,Mumbai Indians,16,88,6,143,0,0
+980917,Mumbai Indians,17,99,7,143,0,0
+980917,Mumbai Indians,18,112,7,143,0,0
+980917,Mumbai Indians,19,129,7,143,0,0
+980923,Mumbai Indians,16,118,4,142,0,0
+980923,Mumbai Indians,17,123,4,142,0,0
+980923,Mumbai Indians,18,130,5,142,0,0
+980923,Mumbai Indians,19,136,6,142,0,0
+980933,Delhi Daredevils,16,118,3,164,0,0
+980933,Delhi Daredevils,17,130,4,164,0,0
+980933,Delhi Daredevils,18,141,4,164,0,0
+980933,Delhi Daredevils,19,148,4,164,0,0
+980937,Royal Challengers Bangalore,16,128,2,180,1,0
+980937,Royal Challengers Bangalore,17,144,2,180,1,1
+980937,Royal Challengers Bangalore,18,152,2,180,1,1
+980937,Royal Challengers Bangalore,19,163,2,180,1,1
+980939,Rising Pune Supergiants,16,108,3,160,0,0
+980939,Rising Pune Supergiants,17,119,3,160,0,0
+980939,Rising Pune Supergiants,18,133,4,160,0,0
+980939,Rising Pune Supergiants,19,143,5,160,0,0
+980951,Delhi Daredevils,16,131,3,186,1,0
+980951,Delhi Daredevils,17,145,5,186,1,0
+980951,Delhi Daredevils,18,163,5,186,1,1
+980951,Delhi Daredevils,19,176,6,186,1,1
+980953,Sunrisers Hyderabad,16,153,2,194,1,1
+980953,Sunrisers Hyderabad,17,161,3,194,1,1
+980953,Sunrisers Hyderabad,18,174,4,194,1,1
+980953,Sunrisers Hyderabad,19,188,4,194,1,1
+980957,Rising Pune Supergiants,16,124,3,159,0,0
+980957,Rising Pune Supergiants,17,135,3,159,0,0
+980957,Rising Pune Supergiants,18,142,4,159,0,0
+980957,Rising Pune Supergiants,19,148,4,159,0,0
+980969,Rising Pune Supergiants,16,146,3,191,1,1
+980969,Rising Pune Supergiants,17,162,3,191,1,1
+980969,Rising Pune Supergiants,18,171,4,191,1,1
+980969,Rising Pune Supergiants,19,175,6,191,1,1
+980989,Rising Pune Supergiants,16,96,5,103,0,0
+980989,Rising Pune Supergiants,17,102,6,103,0,0
+980989,Rising Pune Supergiants,18,103,6,103,0,0
+981001,Kolkata Knight Riders,16,93,5,124,0,0
+981001,Kolkata Knight Riders,17,103,6,124,0,0
+981001,Kolkata Knight Riders,18,116,6,124,0,0
+981001,Kolkata Knight Riders,19,120,7,124,0,0
+981003,Sunrisers Hyderabad,16,120,5,158,0,0
+981003,Sunrisers Hyderabad,17,124,5,158,0,0
+981003,Sunrisers Hyderabad,18,135,6,158,0,0
+981003,Sunrisers Hyderabad,19,149,6,158,0,0
+981011,Delhi Daredevils,16,107,6,138,0,0
+981011,Delhi Daredevils,17,115,7,138,0,0
+981011,Delhi Daredevils,18,125,7,138,0,0
+981011,Delhi Daredevils,19,134,7,138,0,0
+1082595,Royal Challengers Bangalore,16,134,4,157,0,1
+1082595,Royal Challengers Bangalore,17,142,6,157,0,0
+1082595,Royal Challengers Bangalore,18,144,6,157,0,0
+1082595,Royal Challengers Bangalore,19,150,6,157,0,0
+1082603,Rising Pune Supergiant,16,135,5,171,0,0
+1082603,Rising Pune Supergiant,17,149,5,171,0,1
+1082603,Rising Pune Supergiant,18,155,5,171,0,0
+1082603,Rising Pune Supergiant,19,167,5,171,0,0
+1082610,Royal Challengers Bangalore,16,160,2,213,1,1
+1082610,Royal Challengers Bangalore,17,166,2,213,1,1
+1082610,Royal Challengers Bangalore,18,178,2,213,1,1
+1082610,Royal Challengers Bangalore,19,196,2,213,1,1
+1082611,Sunrisers Hyderabad,16,148,1,191,1,1
+1082611,Sunrisers Hyderabad,17,158,2,191,1,1
+1082611,Sunrisers Hyderabad,18,170,2,191,1,1
+1082611,Sunrisers Hyderabad,19,174,4,191,1,1
+1082613,Kolkata Knight Riders,16,149,2,187,1,1
+1082613,Kolkata Knight Riders,17,154,2,187,1,1
+1082613,Kolkata Knight Riders,18,168,2,187,1,1
+1082613,Kolkata Knight Riders,19,180,3,187,1,1
+1082615,Sunrisers Hyderabad,16,122,2,176,0,0
+1082615,Sunrisers Hyderabad,17,134,3,176,0,0
+1082615,Sunrisers Hyderabad,18,146,3,176,0,0
+1082615,Sunrisers Hyderabad,19,161,3,176,0,0
+1082616,Kings XI Punjab,16,143,4,188,1,1
+1082616,Kings XI Punjab,17,152,4,188,1,1
+1082616,Kings XI Punjab,18,158,5,188,1,1
+1082616,Kings XI Punjab,19,176,6,188,1,1
+1082620,Rising Pune Supergiant,16,140,2,182,1,1
+1082620,Rising Pune Supergiant,17,147,2,182,1,1
+1082620,Rising Pune Supergiant,18,152,4,182,1,0
+1082620,Rising Pune Supergiant,19,170,4,182,1,1
+1082631,Kolkata Knight Riders,16,119,5,155,0,0
+1082631,Kolkata Knight Riders,17,120,6,155,0,0
+1082631,Kolkata Knight Riders,18,130,7,155,0,0
+1082631,Kolkata Knight Riders,19,151,7,155,0,0
+1082632,Gujarat Lions,16,171,4,208,1,1
+1082632,Gujarat Lions,17,178,4,208,1,1
+1082632,Gujarat Lions,18,184,5,208,1,1
+1082632,Gujarat Lions,19,191,6,208,1,1
+1082644,Mumbai Indians,16,130,3,173,0,0
+1082644,Mumbai Indians,17,139,3,173,0,0
+1082644,Mumbai Indians,18,157,3,173,0,0
+1082644,Mumbai Indians,19,168,4,173,0,0
+1082645,Kings XI Punjab,16,73,10,73,0,0
+1082649,Kolkata Knight Riders,16,92,6,107,0,0
+1082649,Kolkata Knight Riders,17,101,8,107,0,0
+1082649,Kolkata Knight Riders,18,106,9,107,0,0
+1082649,Kolkata Knight Riders,19,107,10,107,0,0
+1136575,Rajasthan Royals,16,122,4,160,0,0
+1136575,Rajasthan Royals,17,127,5,160,0,0
+1136575,Rajasthan Royals,18,141,5,160,0,0
+1136575,Rajasthan Royals,19,151,7,160,0,0
+1136577,Chennai Super Kings,16,165,4,204,1,1
+1136577,Chennai Super Kings,17,175,4,204,1,1
+1136577,Chennai Super Kings,18,184,4,204,1,1
+1136577,Chennai Super Kings,19,196,4,204,1,1
+1136591,Royal Challengers Bangalore,16,129,3,167,0,0
+1136591,Royal Challengers Bangalore,17,139,3,167,0,0
+1136591,Royal Challengers Bangalore,18,141,6,167,0,0
+1136591,Royal Challengers Bangalore,19,143,7,167,0,0
+1136595,Royal Challengers Bangalore,16,92,8,127,0,0
+1136595,Royal Challengers Bangalore,17,99,8,127,0,0
+1136595,Royal Challengers Bangalore,18,112,8,127,0,0
+1136595,Royal Challengers Bangalore,19,123,8,127,0,0
+1136598,Rajasthan Royals,16,123,7,152,0,0
+1136598,Rajasthan Royals,17,129,7,152,0,0
+1136598,Rajasthan Royals,18,137,8,152,0,0
+1136598,Rajasthan Royals,19,148,8,152,0,0
+1136600,Rajasthan Royals,16,131,3,158,0,0
+1136600,Rajasthan Royals,17,133,4,158,0,0
+1136600,Rajasthan Royals,18,147,5,158,0,0
+1136600,Rajasthan Royals,19,152,5,158,0,0
+1136603,Chennai Super Kings,16,134,3,176,0,1
+1136603,Chennai Super Kings,17,142,3,176,0,0
+1136603,Chennai Super Kings,18,153,3,176,0,1
+1136603,Chennai Super Kings,19,164,3,176,0,1
+1136618,Kolkata Knight Riders,16,116,5,169,0,0
+1136618,Kolkata Knight Riders,17,135,5,169,0,0
+1136618,Kolkata Knight Riders,18,149,6,169,0,0
+1136618,Kolkata Knight Riders,19,157,6,169,0,0
+1175356,Royal Challengers Bangalore,16,69,8,70,0,0
+1175356,Royal Challengers Bangalore,17,70,9,70,0,0
+1175356,Royal Challengers Bangalore,18,70,10,70,0,0
+1175357,Sunrisers Hyderabad,16,144,2,181,1,1
+1175357,Sunrisers Hyderabad,17,149,2,181,1,0
+1175357,Sunrisers Hyderabad,18,158,3,181,1,0
+1175357,Sunrisers Hyderabad,19,170,3,181,1,0
+1175368,Kings XI Punjab,16,136,4,166,0,0
+1175368,Kings XI Punjab,17,141,5,166,0,0
+1175368,Kings XI Punjab,18,148,6,166,0,0
+1175368,Kings XI Punjab,19,153,7,166,0,0
+1175371,Delhi Capitals,16,93,5,129,0,0
+1175371,Delhi Capitals,17,97,6,129,0,0
+1175371,Delhi Capitals,18,105,6,129,0,0
+1175371,Delhi Capitals,19,115,7,129,0,0
+1175372,Royal Challengers Bangalore,16,153,1,205,1,1
+1175372,Royal Challengers Bangalore,17,172,1,205,1,1
+1175372,Royal Challengers Bangalore,18,181,2,205,1,1
+1175372,Royal Challengers Bangalore,19,187,3,205,1,1
+1178395,Royal Challengers Bangalore,16,114,4,149,0,0
+1178395,Royal Challengers Bangalore,17,133,4,149,0,0
+1178395,Royal Challengers Bangalore,18,138,7,149,0,0
+1178395,Royal Challengers Bangalore,19,142,8,149,0,0
+1178398,Kolkata Knight Riders,16,77,8,108,0,0
+1178398,Kolkata Knight Riders,17,79,9,108,0,0
+1178398,Kolkata Knight Riders,18,87,9,108,0,0
+1178398,Kolkata Knight Riders,19,93,9,108,0,0
+1178402,Mumbai Indians,16,135,2,187,1,1
+1178402,Mumbai Indians,17,145,3,187,1,1
+1178402,Mumbai Indians,18,158,3,187,1,1
+1178402,Mumbai Indians,19,171,4,187,1,1
+1178416,Sunrisers Hyderabad,16,138,2,175,0,1
+1178416,Sunrisers Hyderabad,17,151,2,175,0,1
+1178416,Sunrisers Hyderabad,18,160,2,175,0,1
+1178416,Sunrisers Hyderabad,19,167,3,175,0,0
+1181768,Mumbai Indians,16,110,5,149,0,0
+1181768,Mumbai Indians,17,120,5,149,0,0
+1181768,Mumbai Indians,18,136,5,149,0,0
+1181768,Mumbai Indians,19,140,7,149,0,0
+1216493,Delhi Capitals,16,96,5,157,0,0
+1216493,Delhi Capitals,17,100,6,157,0,0
+1216493,Delhi Capitals,18,113,6,157,0,0
+1216493,Delhi Capitals,19,127,7,157,0,0
+1216495,Mumbai Indians,16,109,5,149,0,0
+1216495,Mumbai Indians,17,116,6,149,0,0
+1216495,Mumbai Indians,18,119,7,149,0,0
+1216495,Mumbai Indians,19,139,7,149,0,0
+1216497,Kolkata Knight Riders,16,151,3,194,1,1
+1216497,Kolkata Knight Riders,17,161,4,194,1,1
+1216497,Kolkata Knight Riders,18,170,4,194,1,1
+1216497,Kolkata Knight Riders,19,184,4,194,1,1
+1216498,Kings XI Punjab,16,94,5,126,0,0
+1216498,Kings XI Punjab,17,101,5,126,0,0
+1216498,Kings XI Punjab,18,108,6,126,0,0
+1216498,Kings XI Punjab,19,117,7,126,0,0
+1216501,Kolkata Knight Riders,16,133,5,167,0,0
+1216501,Kolkata Knight Riders,17,140,6,167,0,0
+1216501,Kolkata Knight Riders,18,154,6,167,0,0
+1216501,Kolkata Knight Riders,19,162,7,167,0,0
+1216503,Mumbai Indians,16,124,3,191,1,0
+1216503,Mumbai Indians,17,129,4,191,1,0
+1216503,Mumbai Indians,18,147,4,191,1,0
+1216503,Mumbai Indians,19,166,4,191,1,1
+1216525,Royal Challengers Bangalore,16,103,4,169,0,0
+1216525,Royal Challengers Bangalore,17,117,4,169,0,0
+1216525,Royal Challengers Bangalore,18,141,4,169,0,0
+1216525,Royal Challengers Bangalore,19,155,4,169,0,0
+1216528,Chennai Super Kings,16,119,3,167,0,0
+1216528,Chennai Super Kings,17,129,4,167,0,0
+1216528,Chennai Super Kings,18,138,4,167,0,0
+1216528,Chennai Super Kings,19,152,5,167,0,0
+1216534,Royal Challengers Bangalore,16,124,3,163,0,0
+1216534,Royal Challengers Bangalore,17,132,3,163,0,0
+1216534,Royal Challengers Bangalore,18,141,3,163,0,0
+1216534,Royal Challengers Bangalore,19,155,3,163,0,0
+1216544,Royal Challengers Bangalore,16,114,2,145,0,0
+1216544,Royal Challengers Bangalore,17,125,2,145,0,0
+1216544,Royal Challengers Bangalore,18,132,3,145,0,0
+1216544,Royal Challengers Bangalore,19,138,5,145,0,0
+1216545,Sunrisers Hyderabad,16,110,2,142,0,0
+1216545,Sunrisers Hyderabad,17,118,2,142,0,0
+1216545,Sunrisers Hyderabad,18,127,3,142,0,0
+1216545,Sunrisers Hyderabad,19,133,3,142,0,0
+1216547,Royal Challengers Bangalore,16,136,2,201,1,0
+1216547,Royal Challengers Bangalore,17,154,2,201,1,1
+1216547,Royal Challengers Bangalore,18,164,3,201,1,1
+1216547,Royal Challengers Bangalore,19,181,3,201,1,1
+1237180,Delhi Capitals,16,145,2,189,1,1
+1237180,Delhi Capitals,17,158,2,189,1,1
+1237180,Delhi Capitals,18,176,2,189,1,1
+1237180,Delhi Capitals,19,182,3,189,1,1
+1254059,Chennai Super Kings,16,143,6,188,1,1
+1254059,Chennai Super Kings,17,150,6,188,1,1
+1254059,Chennai Super Kings,18,155,6,188,1,0
+1254059,Chennai Super Kings,19,178,6,188,1,1
+1254083,Punjab Kings,16,126,5,179,0,0
+1254083,Punjab Kings,17,132,5,179,0,0
+1254083,Punjab Kings,18,150,5,179,0,0
+1254083,Punjab Kings,19,157,5,179,0,0
+1254089,Chennai Super Kings,16,133,3,189,1,0
+1254089,Chennai Super Kings,17,141,4,189,1,0
+1254089,Chennai Super Kings,18,155,4,189,1,0
+1254089,Chennai Super Kings,19,167,4,189,1,1
+1254104,Chennai Super Kings,16,98,5,156,0,0
+1254104,Chennai Super Kings,17,107,6,156,0,0
+1254104,Chennai Super Kings,18,117,6,156,0,0
+1254104,Chennai Super Kings,19,141,6,156,0,0
+1254106,Kolkata Knight Riders,16,135,3,171,0,1
+1254106,Kolkata Knight Riders,17,145,3,171,0,1
+1254106,Kolkata Knight Riders,18,148,4,171,0,0
+1254106,Kolkata Knight Riders,19,155,4,171,0,0
+1254114,Delhi Capitals,16,128,4,172,0,0
+1254114,Delhi Capitals,17,141,4,172,0,0
+1254114,Delhi Capitals,18,153,4,172,0,0
+1254114,Delhi Capitals,19,164,5,172,0,0
+1304073,Royal Challengers Bangalore,16,120,5,189,1,0
+1304073,Royal Challengers Bangalore,17,132,5,189,1,0
+1304073,Royal Challengers Bangalore,18,160,5,189,1,1
+1304073,Royal Challengers Bangalore,19,172,5,189,1,1
+1304079,Mumbai Indians,16,110,5,155,0,0
+1304079,Mumbai Indians,17,119,6,155,0,0
+1304079,Mumbai Indians,18,126,7,155,0,0
+1304079,Mumbai Indians,19,139,7,155,0,0
+1304082,Royal Challengers Bangalore,16,68,9,68,0,0
+1304082,Royal Challengers Bangalore,17,68,10,68,0,0
+1304084,Punjab Kings,16,136,1,187,1,1
+1304084,Punjab Kings,17,145,1,187,1,1
+1304084,Punjab Kings,18,152,2,187,1,1
+1304084,Punjab Kings,19,174,2,187,1,1
+1304086,Sunrisers Hyderabad,16,145,3,195,1,1
+1304086,Sunrisers Hyderabad,17,155,4,195,1,1
+1304086,Sunrisers Hyderabad,18,161,5,195,1,1
+1304086,Sunrisers Hyderabad,19,170,6,195,1,1
+1304088,Lucknow Super Giants,16,111,6,153,0,0
+1304088,Lucknow Super Giants,17,118,6,153,0,0
+1304088,Lucknow Super Giants,18,132,7,153,0,0
+1304088,Lucknow Super Giants,19,144,8,153,0,0
+1304092,Chennai Super Kings,16,166,0,202,1,1
+1304092,Chennai Super Kings,17,172,0,202,1,1
+1304092,Chennai Super Kings,18,183,1,202,1,1
+1304092,Chennai Super Kings,19,191,1,202,1,1
+1304097,Mumbai Indians,16,134,4,177,0,0
+1304097,Mumbai Indians,17,142,4,177,0,0
+1304097,Mumbai Indians,18,152,4,177,0,0
+1304097,Mumbai Indians,19,164,6,177,0,0
+1304098,Punjab Kings,16,132,4,189,1,1
+1304098,Punjab Kings,17,147,4,189,1,1
+1304098,Punjab Kings,18,158,4,189,1,1
+1304098,Punjab Kings,19,173,5,189,1,1
+1304103,Gujarat Titans,16,103,4,144,0,0
+1304103,Gujarat Titans,17,117,4,144,0,0
+1304103,Gujarat Titans,18,122,4,144,0,0
+1304103,Gujarat Titans,19,128,4,144,0,0
+1304106,Punjab Kings,16,163,4,209,1,1
+1304106,Punjab Kings,17,166,5,209,1,1
+1304106,Punjab Kings,18,181,6,209,1,1
+1304106,Punjab Kings,19,205,6,209,1,1
+1304111,Sunrisers Hyderabad,16,164,2,193,1,1
+1304111,Sunrisers Hyderabad,17,173,3,193,1,1
+1304111,Sunrisers Hyderabad,18,175,5,193,1,1
+1304111,Sunrisers Hyderabad,19,186,5,193,1,1
+1312197,Rajasthan Royals,16,127,3,188,1,0
+1312197,Rajasthan Royals,17,145,3,188,1,0
+1312197,Rajasthan Royals,18,159,3,188,1,0
+1312197,Rajasthan Royals,19,172,4,188,1,0
+1312198,Royal Challengers Bangalore,16,150,4,207,1,1
+1312198,Royal Challengers Bangalore,17,165,4,207,1,1
+1312198,Royal Challengers Bangalore,18,173,4,207,1,1
+1312198,Royal Challengers Bangalore,19,194,4,207,1,1
+1312199,Royal Challengers Bangalore,16,132,4,157,0,0
+1312199,Royal Challengers Bangalore,17,139,4,157,0,0
+1312199,Royal Challengers Bangalore,18,146,5,157,0,0
+1312199,Royal Challengers Bangalore,19,154,7,157,0,0
+1359476,Punjab Kings,16,153,4,191,1,1
+1359476,Punjab Kings,17,164,4,191,1,1
+1359476,Punjab Kings,18,168,5,191,1,1
+1359476,Punjab Kings,19,176,5,191,1,1
+1359477,Lucknow Super Giants,16,131,4,193,1,0
+1359477,Lucknow Super Giants,17,150,4,193,1,1
+1359477,Lucknow Super Giants,18,157,4,193,1,0
+1359477,Lucknow Super Giants,19,171,5,193,1,1
+1359478,Rajasthan Royals,16,170,3,203,1,1
+1359478,Rajasthan Royals,17,173,4,203,1,1
+1359478,Rajasthan Royals,18,186,4,203,1,1
+1359478,Rajasthan Royals,19,193,5,203,1,1
+1359479,Mumbai Indians,16,111,6,171,0,0
+1359479,Mumbai Indians,17,123,6,171,0,0
+1359479,Mumbai Indians,18,133,7,171,0,0
+1359479,Mumbai Indians,19,149,7,171,0,0
+1359489,Royal Challengers Bangalore,16,146,1,212,1,1
+1359489,Royal Challengers Bangalore,17,160,1,212,1,1
+1359489,Royal Challengers Bangalore,18,183,1,212,1,1
+1359489,Royal Challengers Bangalore,19,203,1,212,1,1
+1359491,Rajasthan Royals,16,141,4,175,0,0
+1359491,Rajasthan Royals,17,144,5,175,0,0
+1359491,Rajasthan Royals,18,157,5,175,0,0
+1359491,Rajasthan Royals,19,167,6,175,0,0
+1359495,Lucknow Super Giants,16,126,4,159,0,0
+1359495,Lucknow Super Giants,17,138,4,159,0,0
+1359495,Lucknow Super Giants,18,143,5,159,0,0
+1359495,Lucknow Super Giants,19,152,6,159,0,0
+1359501,Royal Challengers Bangalore,16,137,0,174,0,1
+1359501,Royal Challengers Bangalore,17,145,2,174,0,1
+1359501,Royal Challengers Bangalore,18,154,3,174,0,1
+1359501,Royal Challengers Bangalore,19,163,4,174,0,1
+1359502,Kolkata Knight Riders,16,97,9,127,0,0
+1359502,Kolkata Knight Riders,17,100,9,127,0,0
+1359502,Kolkata Knight Riders,18,105,9,127,0,0
+1359502,Kolkata Knight Riders,19,108,9,127,0,0
+1359506,Royal Challengers Bangalore,16,162,4,189,1,1
+1359506,Royal Challengers Bangalore,17,164,6,189,1,1
+1359506,Royal Challengers Bangalore,18,170,6,189,1,1
+1359506,Royal Challengers Bangalore,19,179,6,189,1,1
+1359509,Gujarat Titans,16,137,4,207,1,0
+1359509,Gujarat Titans,17,150,4,207,1,0
+1359509,Gujarat Titans,18,172,4,207,1,1
+1359509,Gujarat Titans,19,191,5,207,1,1
+1359510,Kolkata Knight Riders,16,150,2,200,1,1
+1359510,Kolkata Knight Riders,17,167,2,200,1,1
+1359510,Kolkata Knight Riders,18,170,4,200,1,1
+1359510,Kolkata Knight Riders,19,185,5,200,1,1
+1359521,Kolkata Knight Riders,16,137,6,171,0,1
+1359521,Kolkata Knight Riders,17,148,6,171,0,1
+1359521,Kolkata Knight Riders,18,155,7,171,0,0
+1359521,Kolkata Knight Riders,19,168,7,171,0,0
+1359522,Rajasthan Royals,16,110,8,118,0,0
+1359522,Rajasthan Royals,17,113,9,118,0,0
+1359522,Rajasthan Royals,18,118,10,118,0,0
+1359530,Kolkata Knight Riders,16,127,4,149,0,0
+1359530,Kolkata Knight Riders,17,131,6,149,0,0
+1359530,Kolkata Knight Riders,18,139,6,149,0,0
+1359530,Kolkata Knight Riders,19,142,7,149,0,0
+1359535,Chennai Super Kings,16,99,5,144,0,0
+1359535,Chennai Super Kings,17,115,5,144,0,0
+1359535,Chennai Super Kings,18,130,5,144,0,0
+1359535,Chennai Super Kings,19,135,5,144,0,0
+1359537,Lucknow Super Giants,16,117,4,177,0,0
+1359537,Lucknow Super Giants,17,123,4,177,0,0
+1359537,Lucknow Super Giants,18,147,4,177,0,0
+1359537,Lucknow Super Giants,19,162,4,177,0,0
+1359542,Lucknow Super Giants,16,122,5,176,0,0
+1359542,Lucknow Super Giants,17,133,5,176,0,0
+1359542,Lucknow Super Giants,18,147,6,176,0,0
+1359542,Lucknow Super Giants,19,163,8,176,0,0
+1359544,Royal Challengers Bangalore,16,149,5,197,1,1
+1359544,Royal Challengers Bangalore,17,155,5,197,1,1
+1359544,Royal Challengers Bangalore,18,169,5,197,1,1
+1359544,Royal Challengers Bangalore,19,182,5,197,1,1
+1422122,Rajasthan Royals,16,149,3,193,1,1
+1422122,Rajasthan Royals,17,158,4,193,1,1
+1422122,Rajasthan Royals,18,171,4,193,1,1
+1422122,Rajasthan Royals,19,179,4,193,1,1
+1422132,Mumbai Indians,16,111,7,125,0,0
+1422132,Mumbai Indians,17,112,8,125,0,0
+1422132,Mumbai Indians,18,114,8,125,0,0
+1422132,Mumbai Indians,19,115,9,125,0,0
+1422133,Lucknow Super Giants,16,141,3,181,1,1
+1422133,Lucknow Super Giants,17,143,4,181,1,0
+1422133,Lucknow Super Giants,18,148,5,181,1,0
+1422133,Lucknow Super Giants,19,168,5,181,1,0
+1426263,Royal Challengers Bengaluru,16,149,4,196,1,1
+1426263,Royal Challengers Bengaluru,17,154,6,196,1,1
+1426263,Royal Challengers Bengaluru,18,168,6,196,1,1
+1426263,Royal Challengers Bengaluru,19,177,8,196,1,1
+1426265,Punjab Kings,16,103,5,147,0,0
+1426265,Punjab Kings,17,111,6,147,0,0
+1426265,Punjab Kings,18,123,7,147,0,0
+1426265,Punjab Kings,19,141,7,147,0,0
+1426266,Lucknow Super Giants,16,118,5,161,0,0
+1426266,Lucknow Super Giants,17,126,5,161,0,0
+1426266,Lucknow Super Giants,18,144,5,161,0,0
+1426266,Lucknow Super Giants,19,155,5,161,0,0
+1426279,Royal Challengers Bengaluru,16,157,4,206,1,1
+1426279,Royal Challengers Bengaluru,17,167,5,206,1,1
+1426279,Royal Challengers Bengaluru,18,179,5,206,1,1
+1426279,Royal Challengers Bengaluru,19,194,6,206,1,1
+1426283,Gujarat Titans,16,148,3,200,1,1
+1426283,Gujarat Titans,17,156,3,200,1,1
+1426283,Gujarat Titans,18,171,3,200,1,1
+1426283,Gujarat Titans,19,184,3,200,1,1
+1426306,Royal Challengers Bengaluru,16,155,2,218,1,1
+1426306,Royal Challengers Bengaluru,17,171,2,218,1,1
+1426306,Royal Challengers Bengaluru,18,187,3,218,1,1
+1426306,Royal Challengers Bengaluru,19,205,4,218,1,1
+1426309,Sunrisers Hyderabad,16,126,9,159,0,0
+1426309,Sunrisers Hyderabad,17,133,9,159,0,0
+1426309,Sunrisers Hyderabad,18,144,9,159,0,0
+1426309,Sunrisers Hyderabad,19,156,9,159,0,0
+1426312,Sunrisers Hyderabad,16,98,8,113,0,0
+1426312,Sunrisers Hyderabad,17,108,8,113,0,0
+1426312,Sunrisers Hyderabad,18,113,9,113,0,0
+1426312,Sunrisers Hyderabad,19,113,10,113,0,0
